@@ -1,0 +1,46 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: northstar
+          POSTGRES_PASSWORD: northstar
+          POSTGRES_DB: northstar
+        ports: ["55432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U northstar -d northstar -h 127.0.0.1"
+          --health-interval 2s --health-timeout 3s --health-retries 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.6"
+      - run: uv sync --frozen
+      - run: uv run pytest -q
+
+  compose-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start stack
+        run: docker compose up --build -d --wait mock_tms_api
+      - name: init exited 0
+        run: test "$(docker compose ps -a init --format '{{.ExitCode}}')" = "0"
+      - name: Smoke test API
+        run: |
+          curl -fsS localhost:8001/health
+          TOK=$(docker compose run --rm -T init python -c "from northstar_shared.tokens import mint_token; print(mint_token(open('/keys/jwt_private.pem','rb').read(), sub='a.ops', tenant='broker_a', role='ops_rep', aud='northstar-public-api', iss='http://mock-idp:9000'))" | tail -1)
+          curl -fsS -H "Authorization: Bearer $TOK" localhost:8001/v1/loads/4521 | grep -q '"status":"in_transit"'
+          test "$(curl -s -o /dev/null -w '%{http_code}' -H "Authorization: Bearer $TOK" localhost:8001/v1/loads/5150)" = "404"
+      - name: Logs on failure
+        if: failure()
+        run: docker compose logs

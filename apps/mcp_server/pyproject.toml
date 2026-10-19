@@ -1,0 +1,27 @@
+[project]
+name = "mcp-server"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "northstar-shared",
+    "mcp>=2.3,<2.4",
+    "httpx>=0.27",
+    "redis>=5.0",
+    "structlog>=24",
+    "pyyaml>=6",
+    "jsonschema>=4.23",
+    "cryptography",
+    "psycopg[binary,pool]>=3.2",
+    "pydantic-settings>=2.5",
+    "uvicorn[standard]",
+]
+
+[tool.uv.sources]
+northstar-shared = { workspace = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mcp_server"]

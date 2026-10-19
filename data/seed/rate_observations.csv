@@ -1,0 +1,1965 @@
+week,origin_city,destination,availability,rate_per_load,miles,rate_per_mile,source
+2026-04-21,"Lakeland, FL",Atlanta,Shortage,1700.0,505,3.37,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Lakeland, FL",Baltimore,Shortage,3400.0,1002,3.39,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Lakeland, FL",Boston,Shortage,4600.0,1394,3.3,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Lakeland, FL",Chicago,Shortage,3000.0,1206,2.49,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Lakeland, FL",New York,Shortage,4000.0,1179,3.39,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Lakeland, FL",Philadelphia,Shortage,3700.0,1095,3.38,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"El Centro, CA",Baltimore,Slight Shortage,9000.0,2645,3.4,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"El Centro, CA",Philadelphia,Slight Shortage,9200.0,2739,3.36,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Bakersfield, CA",Baltimore,Slight Shortage,8700.0,2791,3.12,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Bakersfield, CA",Chicago,Slight Shortage,6250.0,2089,2.99,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Bakersfield, CA",New York,Slight Shortage,10050.0,2946,3.41,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Bakersfield, CA",Philadelphia,Slight Shortage,9050.0,2878,3.14,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Atlanta,Adequate,5300.0,1858,2.85,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Baltimore,Adequate,8150.0,2397,3.4,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Boston,Adequate,9100.0,2771,3.28,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Chicago,Adequate,5800.0,1766,3.28,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Dallas,Adequate,4100.0,1002,4.09,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Los Angeles,Adequate,2100.0,566,3.71,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",New York,Adequate,8700.0,2577,3.38,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Nogales, AZ",Philadelphia,Adequate,8600.0,2497,3.44,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Atlanta,Slight Shortage,5800.0,1171,4.95,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Baltimore,Slight Shortage,8400.0,1849,4.54,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Boston,Slight Shortage,9000.0,2278,3.95,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Chicago,Slight Shortage,5600.0,1481,3.78,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Dallas,Slight Shortage,2700.0,555,4.86,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Los Angeles,Slight Shortage,4900.0,1580,3.1,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Miami,Slight Shortage,6200.0,1344,4.61,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",New York,Slight Shortage,8800.0,2053,4.29,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"McAllen, TX",Philadelphia,Slight Shortage,8600.0,1960,4.39,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Rochester, NY",Atlanta,Adequate,3500.0,896,3.91,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Rochester, NY",Boston,Adequate,2650.0,407,6.51,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Rochester, NY",Miami,Adequate,4150.0,1453,2.86,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Rochester, NY",New York,Adequate,2350.0,308,7.63,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Rochester, NY",Philadelphia,Adequate,2150.0,304,7.07,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Oxnard, CA",Baltimore,Slight Shortage,8050.0,2835,2.84,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Oxnard, CA",Philadelphia,Slight Shortage,9800.0,2924,3.35,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Salinas, CA",Baltimore,Slight Shortage,9550.0,2919,3.27,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Salinas, CA",Chicago,Slight Shortage,6650.0,2206,3.01,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Salinas, CA",New York,Slight Shortage,10150.0,3067,3.31,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Salinas, CA",Philadelphia,Slight Shortage,9950.0,3002,3.31,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Monte Vista, CO",Atlanta,Adequate,4250.0,1494,2.84,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Monte Vista, CO",Baltimore,Adequate,5725.0,1915,2.99,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Monte Vista, CO",Boston,Adequate,6225.0,2251,2.77,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Monte Vista, CO",Dallas,Adequate,2225.0,749,2.97,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Santa Maria, CA",Baltimore,Slight Shortage,9050.0,2892,3.13,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Santa Maria, CA",Philadelphia,Slight Shortage,9250.0,2979,3.11,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Atlanta,Adequate,6800.0,2394,2.84,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Baltimore,Slight Shortage,9700.0,2801,3.46,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Baltimore,Adequate,8900.0,2801,3.18,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Boston,Adequate,9600.0,3109,3.09,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Chicago,Slight Shortage,6500.0,2089,3.11,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Chicago,Adequate,5950.0,2089,2.85,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Dallas,Adequate,4950.0,1598,3.1,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Miami,Adequate,9500.0,2926,3.25,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",New York,Slight Shortage,10000.0,2950,3.39,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",New York,Adequate,9700.0,2950,3.29,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Philadelphia,Slight Shortage,9700.0,2884,3.36,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Philadelphia,Adequate,9200.0,2884,3.19,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Fresno, CA",Seattle,Adequate,4350.0,912,4.77,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Atlanta,Slight Surplus,7500.0,2495,3.01,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Baltimore,Slight Surplus,8200.0,2698,3.04,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Boston,Slight Surplus,8900.0,2903,3.07,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Chicago,Slight Surplus,5450.0,1977,2.76,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Dallas,Slight Surplus,6050.0,1888,3.2,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Los Angeles,Slight Surplus,2650.0,1051,2.52,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Miami,Slight Surplus,8900.0,3154,2.82,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",New York,Slight Surplus,8400.0,2798,3.0,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-21,"Yakima, WA",Philadelphia,Slight Surplus,8150.0,2755,2.96,USDA FVWTRK 20260422-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",Atlanta,Shortage,1800.0,505,3.56,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",Baltimore,Shortage,3800.0,1002,3.79,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",Boston,Shortage,5500.0,1394,3.95,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",Chicago,Shortage,3400.0,1206,2.82,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",New York,Shortage,5400.0,1179,4.58,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Lakeland, FL",Philadelphia,Shortage,4400.0,1095,4.02,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Atlanta,Slight Shortage,6450.0,2152,3.0,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Baltimore,Slight Shortage,9000.0,2645,3.4,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Boston,Slight Shortage,9300.0,2996,3.1,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Chicago,Slight Shortage,5700.0,1974,2.89,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Dallas,Slight Shortage,4850.0,1308,3.71,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Miami,Slight Shortage,9100.0,2609,3.49,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",New York,Slight Shortage,9450.0,2814,3.36,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Philadelphia,Slight Shortage,9200.0,2739,3.36,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"El Centro, CA",Seattle,Slight Shortage,4000.0,1302,3.07,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Bakersfield, CA",Baltimore,Slight Shortage,8700.0,2791,3.12,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Bakersfield, CA",Chicago,Slight Shortage,6250.0,2089,2.99,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Bakersfield, CA",New York,Slight Shortage,10050.0,2946,3.41,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Bakersfield, CA",Philadelphia,Slight Shortage,9050.0,2878,3.14,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Atlanta,Slight Surplus,6100.0,1858,3.28,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Baltimore,Adequate,8100.0,2397,3.38,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Boston,Slight Surplus,9100.0,2771,3.28,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Chicago,Adequate,5300.0,1766,3.0,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Dallas,Slight Surplus,3600.0,1002,3.59,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Los Angeles,Slight Surplus,2100.0,566,3.71,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",New York,Adequate,8500.0,2577,3.3,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Nogales, AZ",Philadelphia,Adequate,8300.0,2497,3.32,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Atlanta,Slight Shortage,5800.0,1171,4.95,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Baltimore,Slight Shortage,7050.0,1849,3.81,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Boston,Slight Shortage,6500.0,2278,2.85,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Chicago,Slight Shortage,5550.0,1481,3.75,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Dallas,Slight Shortage,2700.0,555,4.86,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Los Angeles,Slight Shortage,4900.0,1580,3.1,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Miami,Slight Shortage,5400.0,1344,4.02,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",New York,Slight Shortage,7800.0,2053,3.8,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"McAllen, TX",Philadelphia,Slight Shortage,7400.0,1960,3.78,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Rochester, NY",Atlanta,Adequate,3500.0,896,3.91,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Rochester, NY",Boston,Adequate,2650.0,407,6.51,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Rochester, NY",Miami,Adequate,4150.0,1453,2.86,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Rochester, NY",New York,Adequate,2350.0,308,7.63,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Rochester, NY",Philadelphia,Adequate,2150.0,304,7.07,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Oxnard, CA",Baltimore,Slight Shortage,8050.0,2835,2.84,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Oxnard, CA",Philadelphia,Slight Shortage,9800.0,2924,3.35,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Salinas, CA",Baltimore,Slight Shortage,9550.0,2919,3.27,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Salinas, CA",Chicago,Slight Shortage,6650.0,2206,3.01,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Salinas, CA",New York,Slight Shortage,10150.0,3067,3.31,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Salinas, CA",Philadelphia,Slight Shortage,9950.0,3002,3.31,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Monte Vista, CO",Atlanta,Adequate,4250.0,1494,2.84,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Monte Vista, CO",Baltimore,Adequate,5725.0,1915,2.99,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Monte Vista, CO",Boston,Adequate,6225.0,2251,2.77,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Monte Vista, CO",Dallas,Adequate,2225.0,749,2.97,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Santa Maria, CA",Baltimore,Slight Shortage,9050.0,2892,3.13,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Santa Maria, CA",Philadelphia,Slight Shortage,9250.0,2979,3.11,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Atlanta,Adequate,6800.0,2394,2.84,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Baltimore,Slight Shortage,9850.0,2801,3.52,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Baltimore,Adequate,8200.0,2801,2.93,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Boston,Adequate,9000.0,3109,2.89,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Chicago,Slight Shortage,6600.0,2089,3.16,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Chicago,Adequate,5900.0,2089,2.82,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Dallas,Adequate,4950.0,1598,3.1,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Miami,Adequate,9200.0,2926,3.14,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",New York,Slight Shortage,10000.0,2950,3.39,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",New York,Adequate,9200.0,2950,3.12,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Philadelphia,Slight Shortage,9700.0,2884,3.36,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Philadelphia,Adequate,8600.0,2884,2.98,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Fresno, CA",Seattle,Adequate,4250.0,912,4.66,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Atlanta,Adequate,7500.0,2495,3.01,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Baltimore,Adequate,8100.0,2698,3.0,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Boston,Adequate,8800.0,2903,3.03,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Chicago,Adequate,5450.0,1977,2.76,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Dallas,Adequate,6050.0,1888,3.2,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Los Angeles,Adequate,2650.0,1051,2.52,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Miami,Adequate,8900.0,3154,2.82,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",New York,Adequate,8600.0,2798,3.07,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-04-28,"Yakima, WA",Philadelphia,Adequate,8500.0,2755,3.09,USDA FVWTRK 20260429-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",Atlanta,Shortage,2200.0,505,4.36,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",Baltimore,Shortage,4400.0,1002,4.39,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",Boston,Shortage,6200.0,1394,4.45,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",Chicago,Shortage,3750.0,1206,3.11,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",New York,Shortage,5600.0,1179,4.75,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Lakeland, FL",Philadelphia,Shortage,5000.0,1095,4.57,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Atlanta,Adequate,6500.0,2152,3.02,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Baltimore,Adequate,9000.0,2645,3.4,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Boston,Adequate,9200.0,2996,3.07,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Chicago,Adequate,6000.0,1974,3.04,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Dallas,Adequate,4800.0,1308,3.67,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Miami,Adequate,9100.0,2609,3.49,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",New York,Adequate,9450.0,2814,3.36,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Philadelphia,Adequate,9000.0,2739,3.29,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"El Centro, CA",Seattle,Adequate,4000.0,1302,3.07,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Bakersfield, CA",Baltimore,Adequate,8700.0,2791,3.12,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Bakersfield, CA",Chicago,Adequate,6250.0,2089,2.99,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Bakersfield, CA",New York,Adequate,10050.0,2946,3.41,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Bakersfield, CA",Philadelphia,Adequate,9050.0,2878,3.14,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Atlanta,Adequate,5900.0,1858,3.18,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Baltimore,Adequate,7900.0,2397,3.3,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Boston,Adequate,8900.0,2771,3.21,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Chicago,Adequate,5550.0,1766,3.14,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Dallas,Slight Surplus,3550.0,1002,3.54,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Los Angeles,Slight Surplus,2000.0,566,3.53,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",New York,Adequate,8300.0,2577,3.22,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Nogales, AZ",Philadelphia,Adequate,8100.0,2497,3.24,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Atlanta,Adequate,5600.0,1171,4.78,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Baltimore,Adequate,7150.0,1849,3.87,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Boston,Adequate,8500.0,2278,3.73,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Chicago,Adequate,5550.0,1481,3.75,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Dallas,Adequate,2800.0,555,5.05,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Los Angeles,Adequate,4550.0,1580,2.88,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Miami,Adequate,5400.0,1344,4.02,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",New York,Adequate,8200.0,2053,3.99,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"McAllen, TX",Philadelphia,Adequate,7600.0,1960,3.88,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Oxnard, CA",Baltimore,Adequate,8300.0,2835,2.93,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Oxnard, CA",Philadelphia,Adequate,9000.0,2924,3.08,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Salinas, CA",Baltimore,Adequate,9150.0,2919,3.13,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Salinas, CA",Chicago,Adequate,6850.0,2206,3.11,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Salinas, CA",New York,Adequate,9600.0,3067,3.13,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Salinas, CA",Philadelphia,Adequate,9600.0,3002,3.2,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Monte Vista, CO",Atlanta,Adequate,4250.0,1494,2.84,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Monte Vista, CO",Baltimore,Adequate,5725.0,1915,2.99,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Monte Vista, CO",Boston,Adequate,6225.0,2251,2.77,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Monte Vista, CO",Dallas,Adequate,2225.0,749,2.97,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Santa Maria, CA",Baltimore,Adequate,9050.0,2892,3.13,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Santa Maria, CA",Philadelphia,Adequate,9250.0,2979,3.11,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Atlanta,Adequate,6900.0,2394,2.88,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Baltimore,Adequate,9150.0,2801,3.27,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Baltimore,Adequate,8400.0,2801,3.0,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Boston,Adequate,9000.0,3109,2.89,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Chicago,Adequate,6700.0,2089,3.21,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Chicago,Adequate,6350.0,2089,3.04,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Dallas,Adequate,4950.0,1598,3.1,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Miami,Adequate,8600.0,2926,2.94,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",New York,Adequate,9600.0,2950,3.25,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",New York,Adequate,9000.0,2950,3.05,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Philadelphia,Adequate,9100.0,2884,3.16,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Philadelphia,Adequate,8500.0,2884,2.95,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Fresno, CA",Seattle,Adequate,3950.0,912,4.33,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Baltimore,Adequate,3300.0,705,4.68,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Boston,Adequate,4650.0,1124,4.14,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Chicago,Adequate,3350.0,871,3.85,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Dallas,Adequate,3200.0,1005,3.18,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Los Angeles,Adequate,5300.0,2492,2.13,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Miami,Adequate,2400.0,557,4.31,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",New York,Adequate,4350.0,899,4.84,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Vidalia, GA",Philadelphia,Adequate,3900.0,809,4.82,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Atlanta,Adequate,7500.0,2495,3.01,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Baltimore,Adequate,8000.0,2698,2.97,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Boston,Adequate,8500.0,2903,2.93,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Chicago,Adequate,5600.0,1977,2.83,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Dallas,Adequate,5900.0,1888,3.12,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Los Angeles,Adequate,2650.0,1051,2.52,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Miami,Adequate,8500.0,3154,2.69,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",New York,Adequate,8400.0,2798,3.0,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-05,"Yakima, WA",Philadelphia,Adequate,7900.0,2755,2.87,USDA FVWTRK 20260506-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",Atlanta,Shortage,2500.0,505,4.95,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",Baltimore,Shortage,4500.0,1002,4.49,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",Boston,Shortage,6500.0,1394,4.66,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",Chicago,Shortage,4300.0,1206,3.57,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",New York,Shortage,6000.0,1179,5.09,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Lakeland, FL",Philadelphia,Shortage,5300.0,1095,4.84,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Atlanta,Adequate,7200.0,2152,3.35,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Baltimore,Adequate,9350.0,2645,3.53,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Boston,Adequate,10650.0,2996,3.55,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Chicago,Adequate,6800.0,1974,3.44,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Dallas,Adequate,5000.0,1308,3.82,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Miami,Adequate,9400.0,2609,3.6,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",New York,Adequate,10200.0,2814,3.62,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Philadelphia,Adequate,9600.0,2739,3.5,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"El Centro, CA",Seattle,Adequate,5400.0,1302,4.15,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Bakersfield, CA",Baltimore,Adequate,9300.0,2791,3.33,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Bakersfield, CA",Chicago,Adequate,5500.0,2089,2.63,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Bakersfield, CA",New York,Adequate,10400.0,2946,3.53,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Bakersfield, CA",Philadelphia,Adequate,10100.0,2878,3.51,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Atlanta,Shortage,7000.0,1858,3.77,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Baltimore,Shortage,8500.0,2397,3.55,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Boston,Shortage,11000.0,2771,3.97,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Chicago,Shortage,6500.0,1766,3.68,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Dallas,Slight Shortage,4000.0,1002,3.99,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Los Angeles,Slight Shortage,2300.0,566,4.06,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",New York,Shortage,10000.0,2577,3.88,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Nogales, AZ",Philadelphia,Shortage,9000.0,2497,3.6,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Atlanta,Shortage,7000.0,1171,5.98,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Baltimore,Shortage,9650.0,1849,5.22,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Boston,Shortage,13500.0,2278,5.93,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Chicago,Shortage,6600.0,1481,4.46,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Dallas,Shortage,4400.0,555,7.93,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Los Angeles,Shortage,6200.0,1580,3.92,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Miami,Shortage,7400.0,1344,5.51,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",New York,Shortage,10750.0,2053,5.24,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"McAllen, TX",Philadelphia,Shortage,9700.0,1960,4.95,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Oxnard, CA",Baltimore,Adequate,9250.0,2835,3.26,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Oxnard, CA",Philadelphia,Adequate,9050.0,2924,3.1,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Salinas, CA",Baltimore,Adequate,8950.0,2919,3.07,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Salinas, CA",Chicago,Adequate,6050.0,2206,2.74,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Salinas, CA",New York,Adequate,10800.0,3067,3.52,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Salinas, CA",Philadelphia,Adequate,10500.0,3002,3.5,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Atlanta,Adequate,7200.0,2454,2.93,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Baltimore,Adequate,9750.0,2892,3.37,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Boston,Adequate,9000.0,3213,2.8,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Chicago,Adequate,6250.0,2190,2.85,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Dallas,Adequate,5400.0,1636,3.3,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Miami,Adequate,9700.0,2956,3.28,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",New York,Adequate,8300.0,3048,2.72,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Philadelphia,Adequate,9650.0,2979,3.24,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Santa Maria, CA",Seattle,Adequate,4350.0,1058,4.11,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Atlanta,Adequate,7000.0,2394,2.92,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Baltimore,Adequate,9300.0,2801,3.32,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Baltimore,Adequate,8700.0,2801,3.11,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Boston,Adequate,9500.0,3109,3.06,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Chicago,Adequate,6000.0,2089,2.87,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Chicago,Adequate,6350.0,2089,3.04,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Dallas,Adequate,4950.0,1598,3.1,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Miami,Adequate,9000.0,2926,3.08,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",New York,Adequate,10650.0,2950,3.61,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",New York,Adequate,9600.0,2950,3.25,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Philadelphia,Adequate,10200.0,2884,3.54,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Philadelphia,Adequate,9500.0,2884,3.29,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Fresno, CA",Seattle,Adequate,4200.0,912,4.61,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Baltimore,Adequate,3400.0,705,4.82,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Boston,Adequate,4900.0,1124,4.36,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Chicago,Adequate,3450.0,871,3.96,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Dallas,Adequate,3300.0,1005,3.28,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Los Angeles,Adequate,5500.0,2492,2.21,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Miami,Adequate,2450.0,557,4.4,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",New York,Adequate,4650.0,899,5.17,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Vidalia, GA",Philadelphia,Adequate,3900.0,809,4.82,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Atlanta,Adequate,7500.0,2495,3.01,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Baltimore,Adequate,8000.0,2698,2.97,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Boston,Adequate,8500.0,2903,2.93,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Chicago,Adequate,5600.0,1977,2.83,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Dallas,Adequate,5900.0,1888,3.12,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Los Angeles,Adequate,2650.0,1051,2.52,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Miami,Adequate,8600.0,3154,2.73,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",New York,Adequate,8600.0,2798,3.07,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-12,"Yakima, WA",Philadelphia,Adequate,7900.0,2755,2.87,USDA FVWTRK 20260513-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",Atlanta,Shortage,1900.0,505,3.76,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",Baltimore,Shortage,4600.0,1002,4.59,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",Boston,Shortage,6600.0,1394,4.73,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",Chicago,Shortage,4000.0,1206,3.32,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",New York,Shortage,5600.0,1179,4.75,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Lakeland, FL",Philadelphia,Shortage,4600.0,1095,4.2,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Atlanta,Slight Shortage,6800.0,2152,3.16,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Baltimore,Slight Shortage,11050.0,2645,4.18,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Boston,Slight Shortage,11250.0,2996,3.76,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Chicago,Slight Shortage,7250.0,1974,3.67,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Dallas,Slight Shortage,6000.0,1308,4.59,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Miami,Slight Shortage,10200.0,2609,3.91,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",New York,Slight Shortage,12200.0,2814,4.34,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Philadelphia,Slight Shortage,10875.0,2739,3.97,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"El Centro, CA",Seattle,Slight Shortage,6350.0,1302,4.88,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Bakersfield, CA",Baltimore,Slight Shortage,10400.0,2791,3.73,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Bakersfield, CA",Chicago,Slight Shortage,7650.0,2089,3.66,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Bakersfield, CA",New York,Slight Shortage,13850.0,2946,4.7,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Bakersfield, CA",Philadelphia,Slight Shortage,12600.0,2878,4.38,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Atlanta,Slight Shortage,7500.0,1858,4.04,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Baltimore,Slight Shortage,10000.0,2397,4.17,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Boston,Slight Shortage,12000.0,2771,4.33,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Chicago,Slight Shortage,6700.0,1766,3.79,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Dallas,Slight Shortage,4450.0,1002,4.44,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Los Angeles,Slight Shortage,2700.0,566,4.77,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",New York,Slight Shortage,11000.0,2577,4.27,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Nogales, AZ",Philadelphia,Slight Shortage,10500.0,2497,4.21,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Atlanta,Shortage,6800.0,1171,5.81,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Baltimore,Shortage,9250.0,1849,5.0,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Boston,Shortage,10500.0,2278,4.61,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Chicago,Shortage,6200.0,1481,4.19,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Dallas,Shortage,4100.0,555,7.39,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Los Angeles,Shortage,5800.0,1580,3.67,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Miami,Shortage,6900.0,1344,5.13,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",New York,Shortage,10200.0,2053,4.97,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"McAllen, TX",Philadelphia,Shortage,9250.0,1960,4.72,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Oxnard, CA",Baltimore,Slight Shortage,10375.0,2835,3.66,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Oxnard, CA",Philadelphia,Slight Shortage,10350.0,2924,3.54,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Salinas, CA",Baltimore,Slight Shortage,12100.0,2919,4.15,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Salinas, CA",Chicago,Slight Shortage,7650.0,2206,3.47,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Salinas, CA",New York,Slight Shortage,14700.0,3067,4.79,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Salinas, CA",Philadelphia,Slight Shortage,13700.0,3002,4.56,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Atlanta,Slight Shortage,7750.0,2454,3.16,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Baltimore,Slight Shortage,10375.0,2892,3.59,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Boston,Slight Shortage,10400.0,3213,3.24,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Chicago,Slight Shortage,7650.0,2190,3.49,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Dallas,Slight Shortage,5900.0,1636,3.61,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Miami,Slight Shortage,11900.0,2956,4.03,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",New York,Slight Shortage,13750.0,3048,4.51,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Philadelphia,Slight Shortage,10350.0,2979,3.47,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Santa Maria, CA",Seattle,Slight Shortage,4900.0,1058,4.63,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Atlanta,Adequate,7700.0,2394,3.22,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Baltimore,Slight Shortage,12350.0,2801,4.41,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Baltimore,Adequate,9600.0,2801,3.43,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Boston,Adequate,10250.0,3109,3.3,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Chicago,Slight Shortage,7100.0,2089,3.4,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Chicago,Adequate,6700.0,2089,3.21,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Dallas,Adequate,5100.0,1598,3.19,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Miami,Adequate,9750.0,2926,3.33,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",New York,Slight Shortage,14150.0,2950,4.8,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",New York,Adequate,10050.0,2950,3.41,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Philadelphia,Slight Shortage,12700.0,2884,4.4,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Philadelphia,Adequate,9750.0,2884,3.38,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Fresno, CA",Seattle,Adequate,4550.0,912,4.99,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Baltimore,Adequate,3400.0,705,4.82,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Boston,Adequate,4900.0,1124,4.36,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Chicago,Adequate,3450.0,871,3.96,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Dallas,Adequate,3300.0,1005,3.28,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Los Angeles,Adequate,5500.0,2492,2.21,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Miami,Adequate,2450.0,557,4.4,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",New York,Adequate,4650.0,899,5.17,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Vidalia, GA",Philadelphia,Adequate,3900.0,809,4.82,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Atlanta,Adequate,7100.0,2495,2.85,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Baltimore,Adequate,8000.0,2698,2.97,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Boston,Adequate,8500.0,2903,2.93,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Chicago,Adequate,6000.0,1977,3.03,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Dallas,Adequate,6150.0,1888,3.26,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Los Angeles,Adequate,2850.0,1051,2.71,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Miami,Adequate,9000.0,3154,2.85,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",New York,Adequate,8850.0,2798,3.16,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-19,"Yakima, WA",Philadelphia,Adequate,8250.0,2755,2.99,USDA FVWTRK 20260520-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",Atlanta,Shortage,1800.0,505,3.56,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",Baltimore,Shortage,3500.0,1002,3.49,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",Boston,Shortage,6200.0,1394,4.45,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",Chicago,Shortage,4000.0,1206,3.32,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",New York,Shortage,2776.5,1179,2.35,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Lakeland, FL",Philadelphia,Shortage,4800.0,1095,4.38,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Atlanta,Slight Shortage,6800.0,2152,3.16,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Baltimore,Slight Shortage,11050.0,2645,4.18,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Boston,Slight Shortage,11250.0,2996,3.76,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Chicago,Slight Shortage,7250.0,1974,3.67,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Dallas,Slight Shortage,6000.0,1308,4.59,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Miami,Slight Shortage,10200.0,2609,3.91,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",New York,Slight Shortage,12200.0,2814,4.34,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Philadelphia,Slight Shortage,10875.0,2739,3.97,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"El Centro, CA",Seattle,Slight Shortage,6350.0,1302,4.88,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Bakersfield, CA",Baltimore,Slight Shortage,10250.0,2791,3.67,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Bakersfield, CA",Chicago,Slight Shortage,7650.0,2089,3.66,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Bakersfield, CA",New York,Slight Shortage,12450.0,2946,4.23,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Bakersfield, CA",Philadelphia,Slight Shortage,11500.0,2878,4.0,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Atlanta,Adequate,7250.0,1858,3.9,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Baltimore,Adequate,9250.0,2397,3.86,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Boston,Adequate,10700.0,2771,3.86,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Chicago,Adequate,5800.0,1766,3.28,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Dallas,Adequate,3850.0,1002,3.84,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Los Angeles,Adequate,2150.0,566,3.8,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",New York,Adequate,10150.0,2577,3.94,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Nogales, AZ",Philadelphia,Adequate,9550.0,2497,3.82,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Atlanta,Adequate,5000.0,1171,4.27,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Baltimore,Adequate,6750.0,1849,3.65,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Boston,Adequate,7950.0,2278,3.49,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Chicago,Adequate,5600.0,1481,3.78,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Dallas,Adequate,2400.0,555,4.32,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Los Angeles,Adequate,4600.0,1580,2.91,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Miami,Adequate,5700.0,1344,4.24,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",New York,Adequate,7900.0,2053,3.85,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"McAllen, TX",Philadelphia,Adequate,6800.0,1960,3.47,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Oxnard, CA",Baltimore,Slight Shortage,10375.0,2835,3.66,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Oxnard, CA",Philadelphia,Slight Shortage,10350.0,2924,3.54,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Salinas, CA",Baltimore,Slight Shortage,12100.0,2919,4.15,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Salinas, CA",Chicago,Slight Shortage,6750.0,2206,3.06,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Salinas, CA",New York,Slight Shortage,12850.0,3067,4.19,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Salinas, CA",Philadelphia,Slight Shortage,11900.0,3002,3.96,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Atlanta,Slight Shortage,7750.0,2454,3.16,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Baltimore,Slight Shortage,10375.0,2892,3.59,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Boston,Slight Shortage,10400.0,3213,3.24,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Chicago,Slight Shortage,7650.0,2190,3.49,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Dallas,Slight Shortage,5900.0,1636,3.61,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Miami,Slight Shortage,11900.0,2956,4.03,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",New York,Slight Shortage,13750.0,3048,4.51,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Philadelphia,Slight Shortage,10350.0,2979,3.47,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Santa Maria, CA",Seattle,Slight Shortage,4900.0,1058,4.63,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Atlanta,Slight Shortage,7700.0,2394,3.22,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Baltimore,Slight Shortage,11900.0,2801,4.25,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Baltimore,Slight Shortage,9600.0,2801,3.43,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Boston,Slight Shortage,10250.0,3109,3.3,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Chicago,Slight Shortage,7100.0,2089,3.4,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Chicago,Slight Shortage,6700.0,2089,3.21,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Dallas,Slight Shortage,5100.0,1598,3.19,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Miami,Slight Shortage,9750.0,2926,3.33,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",New York,Slight Shortage,12600.0,2950,4.27,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",New York,Slight Shortage,10050.0,2950,3.41,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Philadelphia,Slight Shortage,11800.0,2884,4.09,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Philadelphia,Slight Shortage,9750.0,2884,3.38,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Fresno, CA",Seattle,Slight Shortage,4550.0,912,4.99,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Baltimore,Adequate,3400.0,705,4.82,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Boston,Adequate,4900.0,1124,4.36,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Chicago,Adequate,3450.0,871,3.96,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Dallas,Adequate,3300.0,1005,3.28,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Los Angeles,Adequate,5500.0,2492,2.21,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Miami,Adequate,2450.0,557,4.4,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",New York,Adequate,4650.0,899,5.17,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Vidalia, GA",Philadelphia,Adequate,3900.0,809,4.82,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Atlanta,Slight Shortage,7100.0,2495,2.85,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Baltimore,Slight Shortage,8000.0,2698,2.97,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Boston,Slight Shortage,8500.0,2903,2.93,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Chicago,Slight Shortage,6000.0,1977,3.03,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Dallas,Slight Shortage,6150.0,1888,3.26,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Los Angeles,Slight Shortage,2850.0,1051,2.71,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Miami,Slight Shortage,9000.0,3154,2.85,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",New York,Slight Shortage,8850.0,2798,3.16,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-05-26,"Yakima, WA",Philadelphia,Slight Shortage,8250.0,2755,2.99,USDA FVWTRK 20260528-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",Atlanta,Shortage,2000.0,505,3.96,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",Baltimore,Shortage,5000.0,1002,4.99,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",Boston,Shortage,6500.0,1394,4.66,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",Chicago,Shortage,4300.0,1206,3.57,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",New York,Shortage,5700.0,1179,4.83,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Lakeland, FL",Philadelphia,Shortage,5400.0,1095,4.93,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Atlanta,Slight Shortage,8000.0,2152,3.72,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Baltimore,Slight Shortage,11250.0,2645,4.25,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Boston,Slight Shortage,12050.0,2996,4.02,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Chicago,Slight Shortage,7300.0,1974,3.7,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Dallas,Slight Shortage,6100.0,1308,4.66,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Miami,Slight Shortage,10750.0,2609,4.12,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",New York,Slight Shortage,12350.0,2814,4.39,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Philadelphia,Slight Shortage,11575.0,2739,4.23,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"El Centro, CA",Seattle,Slight Shortage,6450.0,1302,4.95,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Bakersfield, CA",Baltimore,Slight Shortage,11250.0,2791,4.03,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Bakersfield, CA",Chicago,Slight Shortage,7700.0,2089,3.69,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Bakersfield, CA",New York,Slight Shortage,11600.0,2946,3.94,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Bakersfield, CA",Philadelphia,Slight Shortage,11500.0,2878,4.0,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Atlanta,Adequate,6600.0,1858,3.55,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Baltimore,Adequate,10000.0,2397,4.17,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Boston,Adequate,11300.0,2771,4.08,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Chicago,Adequate,6800.0,1766,3.85,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Dallas,Adequate,4550.0,1002,4.54,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Los Angeles,Adequate,2350.0,566,4.15,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",New York,Adequate,10650.0,2577,4.13,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Nogales, AZ",Philadelphia,Adequate,10250.0,2497,4.1,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Atlanta,Adequate,4950.0,1171,4.23,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Baltimore,Adequate,6800.0,1849,3.68,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Boston,Adequate,7950.0,2278,3.49,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Chicago,Adequate,5600.0,1481,3.78,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Dallas,Adequate,2350.0,555,4.23,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Los Angeles,Adequate,4400.0,1580,2.78,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Miami,Adequate,5600.0,1344,4.17,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",New York,Adequate,7900.0,2053,3.85,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"McAllen, TX",Philadelphia,Adequate,6800.0,1960,3.47,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Oxnard, CA",Baltimore,Slight Shortage,11250.0,2835,3.97,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Oxnard, CA",Philadelphia,Slight Shortage,11150.0,2924,3.81,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Salinas, CA",Baltimore,Slight Shortage,12100.0,2919,4.15,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Salinas, CA",Chicago,Slight Shortage,6950.0,2206,3.15,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Salinas, CA",New York,Slight Shortage,13350.0,3067,4.35,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Salinas, CA",Philadelphia,Slight Shortage,12000.0,3002,4.0,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Atlanta,Slight Shortage,7850.0,2454,3.2,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Baltimore,Slight Shortage,11250.0,2892,3.89,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Boston,Slight Shortage,12050.0,3213,3.75,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Chicago,Slight Shortage,7700.0,2190,3.52,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Dallas,Slight Shortage,6100.0,1636,3.73,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Miami,Slight Shortage,12400.0,2956,4.19,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",New York,Slight Shortage,12400.0,3048,4.07,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Philadelphia,Slight Shortage,11000.0,2979,3.69,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Santa Maria, CA",Seattle,Slight Shortage,5350.0,1058,5.06,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Atlanta,Slight Shortage,8100.0,2394,3.38,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Baltimore,Slight Shortage,11900.0,2801,4.25,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Baltimore,Slight Shortage,10350.0,2801,3.7,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Boston,Slight Shortage,10850.0,3109,3.49,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Chicago,Slight Shortage,7700.0,2089,3.69,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Chicago,Slight Shortage,7250.0,2089,3.47,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Dallas,Slight Shortage,6100.0,1598,3.82,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Miami,Slight Shortage,11400.0,2926,3.9,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",New York,Slight Shortage,12600.0,2950,4.27,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",New York,Slight Shortage,11750.0,2950,3.98,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Philadelphia,Slight Shortage,11800.0,2884,4.09,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Philadelphia,Slight Shortage,10750.0,2884,3.73,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Fresno, CA",Seattle,Slight Shortage,5100.0,912,5.59,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Baltimore,Adequate,3600.0,705,5.11,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Boston,Adequate,5400.0,1124,4.8,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Chicago,Adequate,3550.0,871,4.08,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Dallas,Adequate,3400.0,1005,3.38,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Miami,Adequate,2600.0,557,4.67,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",New York,Adequate,4950.0,899,5.51,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Vidalia, GA",Philadelphia,Adequate,4100.0,809,5.07,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Atlanta,Adequate,7200.0,2495,2.89,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Baltimore,Adequate,7900.0,2698,2.93,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Boston,Adequate,8400.0,2903,2.89,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Chicago,Adequate,6000.0,1977,3.03,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Dallas,Adequate,6100.0,1888,3.23,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Los Angeles,Adequate,2650.0,1051,2.52,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Miami,Adequate,9200.0,3154,2.92,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",New York,Adequate,8500.0,2798,3.04,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-02,"Yakima, WA",Philadelphia,Adequate,8300.0,2755,3.01,USDA FVWTRK 20260603-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",Atlanta,Shortage,1800.0,505,3.56,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",Baltimore,Shortage,4900.0,1002,4.89,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",Boston,Shortage,6000.0,1394,4.3,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",Chicago,Shortage,4000.0,1206,3.32,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",New York,Shortage,5300.0,1179,4.5,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Lakeland, FL",Philadelphia,Shortage,5200.0,1095,4.75,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Atlanta,Slight Shortage,8000.0,2152,3.72,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Baltimore,Slight Shortage,11250.0,2645,4.25,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Boston,Slight Shortage,12050.0,2996,4.02,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Chicago,Slight Shortage,7300.0,1974,3.7,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Dallas,Slight Shortage,6100.0,1308,4.66,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Miami,Slight Shortage,10750.0,2609,4.12,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",New York,Slight Shortage,11950.0,2814,4.25,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Philadelphia,Slight Shortage,11575.0,2739,4.23,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"El Centro, CA",Seattle,Slight Shortage,6450.0,1302,4.95,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Bakersfield, CA",Baltimore,Slight Shortage,11250.0,2791,4.03,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Bakersfield, CA",Chicago,Slight Shortage,7700.0,2089,3.69,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Bakersfield, CA",New York,Slight Shortage,11950.0,2946,4.06,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Bakersfield, CA",Philadelphia,Slight Shortage,11350.0,2878,3.94,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Atlanta,Adequate,6800.0,1858,3.66,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Baltimore,Adequate,9750.0,2397,4.07,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Boston,Adequate,11100.0,2771,4.01,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Chicago,Adequate,6050.0,1766,3.43,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Dallas,Adequate,3500.0,1002,3.49,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Los Angeles,Adequate,2300.0,566,4.06,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",New York,Adequate,10400.0,2577,4.04,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Nogales, AZ",Philadelphia,Adequate,10150.0,2497,4.06,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Atlanta,Adequate,4000.0,1171,3.42,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Baltimore,Adequate,6600.0,1849,3.57,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Boston,Adequate,7800.0,2278,3.42,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Chicago,Adequate,4750.0,1481,3.21,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Dallas,Adequate,2350.0,555,4.23,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Los Angeles,Adequate,3400.0,1580,2.15,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Miami,Adequate,5200.0,1344,3.87,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",New York,Adequate,7400.0,2053,3.6,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"McAllen, TX",Philadelphia,Adequate,7000.0,1960,3.57,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Oxnard, CA",Baltimore,Slight Shortage,11250.0,2835,3.97,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Oxnard, CA",Philadelphia,Slight Shortage,11600.0,2924,3.97,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Salinas, CA",Baltimore,Slight Shortage,11250.0,2919,3.85,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Salinas, CA",Chicago,Slight Shortage,6950.0,2206,3.15,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Salinas, CA",New York,Slight Shortage,11950.0,3067,3.9,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Salinas, CA",Philadelphia,Slight Shortage,11650.0,3002,3.88,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Atlanta,Slight Shortage,7850.0,2454,3.2,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Baltimore,Slight Shortage,11250.0,2892,3.89,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Boston,Slight Shortage,12050.0,3213,3.75,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Chicago,Slight Shortage,7700.0,2190,3.52,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Dallas,Slight Shortage,6100.0,1636,3.73,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Miami,Slight Shortage,12400.0,2956,4.19,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",New York,Slight Shortage,12400.0,3048,4.07,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Philadelphia,Slight Shortage,11000.0,2979,3.69,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Santa Maria, CA",Seattle,Slight Shortage,5350.0,1058,5.06,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Atlanta,Slight Shortage,8100.0,2394,3.38,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Baltimore,Slight Shortage,11050.0,2801,3.95,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Baltimore,Slight Shortage,10300.0,2801,3.68,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Boston,Slight Shortage,10900.0,3109,3.51,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Chicago,Slight Shortage,7700.0,2089,3.69,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Chicago,Slight Shortage,7500.0,2089,3.59,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Dallas,Slight Shortage,6100.0,1598,3.82,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Miami,Slight Shortage,11900.0,2926,4.07,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",New York,Slight Shortage,11700.0,2950,3.97,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",New York,Slight Shortage,12050.0,2950,4.08,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Philadelphia,Slight Shortage,11950.0,2884,4.14,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Philadelphia,Slight Shortage,10750.0,2884,3.73,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Fresno, CA",Seattle,Slight Shortage,4850.0,912,5.32,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Baltimore,Adequate,3600.0,705,5.11,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Boston,Adequate,5400.0,1124,4.8,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Chicago,Adequate,3550.0,871,4.08,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Dallas,Adequate,3400.0,1005,3.38,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Miami,Adequate,2600.0,557,4.67,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",New York,Adequate,4950.0,899,5.51,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Vidalia, GA",Philadelphia,Adequate,4100.0,809,5.07,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Atlanta,Adequate,7200.0,2495,2.89,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Baltimore,Adequate,8500.0,2698,3.15,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Boston,Adequate,9000.0,2903,3.1,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Chicago,Adequate,5600.0,1977,2.83,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Dallas,Adequate,6000.0,1888,3.18,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Los Angeles,Adequate,2650.0,1051,2.52,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Miami,Adequate,9200.0,3154,2.92,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",New York,Adequate,9200.0,2798,3.29,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-09,"Yakima, WA",Philadelphia,Adequate,8800.0,2755,3.19,USDA FVWTRK 20260610-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",Atlanta,Shortage,1600.0,505,3.17,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",Baltimore,Shortage,4200.0,1002,4.19,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",Boston,Shortage,5800.0,1394,4.16,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",Chicago,Shortage,3600.0,1206,2.99,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",New York,Shortage,5100.0,1179,4.33,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Lakeland, FL",Philadelphia,Shortage,5000.0,1095,4.57,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Atlanta,Adequate,8150.0,2152,3.79,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Baltimore,Adequate,10200.0,2645,3.86,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Boston,Adequate,11950.0,2996,3.99,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Chicago,Adequate,7675.0,1974,3.89,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Dallas,Adequate,6500.0,1308,4.97,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Miami,Adequate,10800.0,2609,4.14,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",New York,Adequate,11400.0,2814,4.05,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Philadelphia,Adequate,11150.0,2739,4.07,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"El Centro, CA",Seattle,Adequate,5650.0,1302,4.34,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Bakersfield, CA",Baltimore,Adequate,10950.0,2791,3.92,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Bakersfield, CA",Chicago,Adequate,7100.0,2089,3.4,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Bakersfield, CA",New York,Adequate,11800.0,2946,4.01,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Bakersfield, CA",Philadelphia,Adequate,11250.0,2878,3.91,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Atlanta,Adequate,6450.0,1858,3.47,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Baltimore,Adequate,8850.0,2397,3.69,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Boston,Adequate,9800.0,2771,3.54,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Chicago,Adequate,5600.0,1766,3.17,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Dallas,Adequate,3800.0,1002,3.79,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Los Angeles,Adequate,2050.0,566,3.62,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",New York,Adequate,9450.0,2577,3.67,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Nogales, AZ",Philadelphia,Adequate,9150.0,2497,3.66,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Atlanta,Adequate,4200.0,1171,3.59,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Baltimore,Adequate,6400.0,1849,3.46,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Boston,Adequate,7200.0,2278,3.16,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Chicago,Adequate,4500.0,1481,3.04,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Dallas,Adequate,2300.0,555,4.14,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Los Angeles,Adequate,3800.0,1580,2.41,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Miami,Adequate,5650.0,1344,4.2,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",New York,Adequate,7200.0,2053,3.51,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"McAllen, TX",Philadelphia,Adequate,6600.0,1960,3.37,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Oxnard, CA",Baltimore,Adequate,11100.0,2835,3.92,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Oxnard, CA",Philadelphia,Adequate,11250.0,2924,3.85,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Salinas, CA",Baltimore,Adequate,11250.0,2919,3.85,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Salinas, CA",Chicago,Adequate,7100.0,2206,3.22,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Salinas, CA",New York,Adequate,11800.0,3067,3.85,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Salinas, CA",Philadelphia,Adequate,11550.0,3002,3.85,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Atlanta,Adequate,7850.0,2454,3.2,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Baltimore,Adequate,11250.0,2892,3.89,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Boston,Adequate,11400.0,3213,3.55,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Chicago,Adequate,7100.0,2190,3.24,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Dallas,Adequate,6500.0,1636,3.97,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Miami,Adequate,10800.0,2956,3.65,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",New York,Adequate,11750.0,3048,3.85,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Philadelphia,Adequate,11150.0,2979,3.74,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Santa Maria, CA",Seattle,Adequate,5950.0,1058,5.62,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Atlanta,Slight Shortage,8300.0,2394,3.47,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Baltimore,Adequate,11200.0,2801,4.0,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Baltimore,Slight Shortage,10300.0,2801,3.68,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Boston,Slight Shortage,11200.0,3109,3.6,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Chicago,Adequate,7100.0,2089,3.4,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Chicago,Slight Shortage,7300.0,2089,3.49,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Dallas,Slight Shortage,6100.0,1598,3.82,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Miami,Slight Shortage,10200.0,2926,3.49,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",New York,Adequate,11550.0,2950,3.92,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",New York,Slight Shortage,11000.0,2950,3.73,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Philadelphia,Adequate,11400.0,2884,3.95,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Philadelphia,Slight Shortage,10750.0,2884,3.73,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Fresno, CA",Seattle,Slight Shortage,4850.0,912,5.32,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Baltimore,Adequate,3600.0,705,5.11,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Boston,Adequate,5400.0,1124,4.8,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Chicago,Adequate,3550.0,871,4.08,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Dallas,Adequate,3400.0,1005,3.38,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Miami,Adequate,2600.0,557,4.67,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",New York,Adequate,4950.0,899,5.51,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Vidalia, GA",Philadelphia,Adequate,4100.0,809,5.07,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Atlanta,Slight Shortage,7500.0,2495,3.01,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Baltimore,Slight Shortage,8450.0,2698,3.13,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Boston,Slight Shortage,9000.0,2903,3.1,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Chicago,Slight Shortage,5600.0,1977,2.83,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Dallas,Slight Shortage,6000.0,1888,3.18,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Los Angeles,Slight Shortage,2800.0,1051,2.66,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Miami,Slight Shortage,9500.0,3154,3.01,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",New York,Slight Shortage,9300.0,2798,3.32,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-16,"Yakima, WA",Philadelphia,Slight Shortage,8850.0,2755,3.21,USDA FVWTRK 20260617-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",Atlanta,Shortage,1600.0,505,3.17,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",Baltimore,Shortage,4200.0,1002,4.19,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",Boston,Shortage,5800.0,1394,4.16,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",Chicago,Shortage,3600.0,1206,2.99,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",New York,Shortage,5100.0,1179,4.33,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Lakeland, FL",Philadelphia,Shortage,5000.0,1095,4.57,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Tifton, GA",Baltimore,Shortage,4600.0,800,5.75,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Tifton, GA",Boston,Shortage,6000.0,1222,4.91,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Tifton, GA",Chicago,Shortage,3600.0,903,3.99,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Tifton, GA",New York,Shortage,5600.0,996,5.62,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Tifton, GA",Philadelphia,Shortage,5050.0,905,5.58,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Atlanta,Adequate,8150.0,2152,3.79,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Baltimore,Adequate,10200.0,2645,3.86,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Boston,Adequate,11950.0,2996,3.99,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Chicago,Adequate,7675.0,1974,3.89,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Dallas,Adequate,6500.0,1308,4.97,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Miami,Adequate,10800.0,2609,4.14,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",New York,Adequate,11400.0,2814,4.05,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Philadelphia,Adequate,11150.0,2739,4.07,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"El Centro, CA",Seattle,Adequate,5650.0,1302,4.34,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Bakersfield, CA",Baltimore,Adequate,10950.0,2791,3.92,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Bakersfield, CA",Chicago,Adequate,7100.0,2089,3.4,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Bakersfield, CA",New York,Adequate,11800.0,2946,4.01,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Bakersfield, CA",Philadelphia,Adequate,11350.0,2878,3.94,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Atlanta,Adequate,6150.0,1858,3.31,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Baltimore,Adequate,8550.0,2397,3.57,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Boston,Adequate,9550.0,2771,3.45,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Chicago,Adequate,5250.0,1766,2.97,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Dallas,Adequate,3200.0,1002,3.19,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Los Angeles,Adequate,2050.0,566,3.62,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",New York,Adequate,9100.0,2577,3.53,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Nogales, AZ",Philadelphia,Adequate,8950.0,2497,3.58,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Atlanta,Adequate,4100.0,1171,3.5,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Baltimore,Adequate,6500.0,1849,3.52,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Boston,Adequate,8600.0,2278,3.78,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Chicago,Adequate,4500.0,1481,3.04,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Dallas,Adequate,2150.0,555,3.87,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Los Angeles,Adequate,4200.0,1580,2.66,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Miami,Adequate,5650.0,1344,4.2,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",New York,Adequate,7400.0,2053,3.6,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"McAllen, TX",Philadelphia,Adequate,7000.0,1960,3.57,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Oxnard, CA",Baltimore,Adequate,11100.0,2835,3.92,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Oxnard, CA",Philadelphia,Adequate,11350.0,2924,3.88,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Salinas, CA",Baltimore,Adequate,11250.0,2919,3.85,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Salinas, CA",Chicago,Adequate,7100.0,2206,3.22,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Salinas, CA",New York,Adequate,12000.0,3067,3.91,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Salinas, CA",Philadelphia,Adequate,11700.0,3002,3.9,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Atlanta,Adequate,7850.0,2454,3.2,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Baltimore,Adequate,11250.0,2892,3.89,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Boston,Adequate,11400.0,3213,3.55,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Chicago,Adequate,7100.0,2190,3.24,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Dallas,Adequate,6500.0,1636,3.97,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Miami,Adequate,10800.0,2956,3.65,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Philadelphia,Adequate,11150.0,2979,3.74,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Santa Maria, CA",Seattle,Adequate,5950.0,1058,5.62,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Fresno, CA",Baltimore,Adequate,11200.0,2801,4.0,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Fresno, CA",Chicago,Adequate,7100.0,2089,3.4,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Fresno, CA",New York,Adequate,11750.0,2950,3.98,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Fresno, CA",Philadelphia,Adequate,11550.0,2884,4.0,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Baltimore,Adequate,3800.0,705,5.39,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Boston,Adequate,5500.0,1124,4.89,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Chicago,Adequate,3600.0,871,4.13,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Dallas,Adequate,3500.0,1005,3.48,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Miami,Adequate,2700.0,557,4.85,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",New York,Adequate,5150.0,899,5.73,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Vidalia, GA",Philadelphia,Adequate,4400.0,809,5.44,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Atlanta,Slight Shortage,7500.0,2495,3.01,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Baltimore,Slight Shortage,8450.0,2698,3.13,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Boston,Slight Shortage,9000.0,2903,3.1,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Chicago,Slight Shortage,5600.0,1977,2.83,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Dallas,Slight Shortage,6000.0,1888,3.18,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Los Angeles,Slight Shortage,2800.0,1051,2.66,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Miami,Slight Shortage,9500.0,3154,3.01,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",New York,Slight Shortage,9300.0,2798,3.32,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-23,"Yakima, WA",Philadelphia,Slight Shortage,8850.0,2755,3.21,USDA FVWTRK 20260624-fvwtrk.pdf
+2026-06-30,"Tifton, GA",Baltimore,Shortage,4800.0,800,6.0,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Tifton, GA",Boston,Shortage,6500.0,1222,5.32,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Tifton, GA",Chicago,Shortage,4200.0,903,4.65,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Tifton, GA",New York,Shortage,6000.0,996,6.02,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Tifton, GA",Philadelphia,Shortage,5400.0,905,5.97,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Atlanta,Adequate,10100.0,2152,4.69,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Baltimore,Adequate,10750.0,2645,4.06,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Boston,Adequate,12900.0,2996,4.31,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Chicago,Adequate,7600.0,1974,3.85,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Dallas,Adequate,5700.0,1308,4.36,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Miami,Adequate,10500.0,2609,4.02,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",New York,Adequate,13200.0,2814,4.69,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Philadelphia,Adequate,12150.0,2739,4.44,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"El Centro, CA",Seattle,Adequate,7000.0,1302,5.38,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Bakersfield, CA",Baltimore,Adequate,11650.0,2791,4.17,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Bakersfield, CA",Chicago,Adequate,7650.0,2089,3.66,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Bakersfield, CA",New York,Adequate,12000.0,2946,4.07,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Bakersfield, CA",Philadelphia,Adequate,11600.0,2878,4.03,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Atlanta,Slight Surplus,6650.0,1858,3.58,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Baltimore,Slight Surplus,8550.0,2397,3.57,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Boston,Slight Surplus,9550.0,2771,3.45,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Chicago,Slight Surplus,5300.0,1766,3.0,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Dallas,Slight Surplus,3100.0,1002,3.09,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Los Angeles,Slight Surplus,1550.0,566,2.74,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",New York,Slight Surplus,9050.0,2577,3.51,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Nogales, AZ",Philadelphia,Slight Surplus,8600.0,2497,3.44,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Atlanta,Slight Shortage,4200.0,1171,3.59,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Baltimore,Slight Shortage,6700.0,1849,3.62,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Boston,Slight Shortage,8600.0,2278,3.78,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Chicago,Slight Shortage,4500.0,1481,3.04,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Dallas,Slight Shortage,2150.0,555,3.87,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Los Angeles,Slight Shortage,4200.0,1580,2.66,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Miami,Slight Shortage,5700.0,1344,4.24,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",New York,Slight Shortage,7400.0,2053,3.6,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"McAllen, TX",Philadelphia,Slight Shortage,7000.0,1960,3.57,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Oxnard, CA",Baltimore,Adequate,12400.0,2835,4.37,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Oxnard, CA",Philadelphia,Adequate,12000.0,2924,4.1,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Salinas, CA",Baltimore,Adequate,11600.0,2919,3.97,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Salinas, CA",Chicago,Adequate,6750.0,2206,3.06,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Salinas, CA",New York,Adequate,12150.0,3067,3.96,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Salinas, CA",Philadelphia,Adequate,12150.0,3002,4.05,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Atlanta,Adequate,11550.0,2454,4.71,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Baltimore,Adequate,11250.0,2892,3.89,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Boston,Adequate,12450.0,3213,3.87,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Chicago,Adequate,7100.0,2190,3.24,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Dallas,Adequate,6200.0,1636,3.79,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Miami,Adequate,12350.0,2956,4.18,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Philadelphia,Adequate,11900.0,2979,3.99,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Santa Maria, CA",Seattle,Adequate,6350.0,1058,6.0,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Atlanta,Slight Shortage,8900.0,2394,3.72,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Baltimore,Adequate,12300.0,2801,4.39,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Baltimore,Slight Shortage,10700.0,2801,3.82,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Boston,Slight Shortage,11200.0,3109,3.6,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Chicago,Adequate,7100.0,2089,3.4,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Chicago,Slight Shortage,7100.0,2089,3.4,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Dallas,Slight Shortage,6100.0,1598,3.82,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Miami,Slight Shortage,10000.0,2926,3.42,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",New York,Adequate,11950.0,2950,4.05,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",New York,Slight Shortage,11300.0,2950,3.83,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Philadelphia,Adequate,12450.0,2884,4.32,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Philadelphia,Slight Shortage,10750.0,2884,3.73,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Fresno, CA",Seattle,Slight Shortage,5300.0,912,5.81,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Baltimore,Adequate,3800.0,705,5.39,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Boston,Adequate,5500.0,1124,4.89,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Chicago,Adequate,3600.0,871,4.13,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Dallas,Adequate,3500.0,1005,3.48,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Miami,Adequate,2700.0,557,4.85,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",New York,Adequate,5150.0,899,5.73,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Vidalia, GA",Philadelphia,Adequate,4400.0,809,5.44,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Atlanta,Slight Shortage,8250.0,2495,3.31,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Baltimore,Slight Shortage,8450.0,2698,3.13,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Boston,Slight Shortage,9000.0,2903,3.1,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Chicago,Slight Shortage,6000.0,1977,3.03,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Dallas,Slight Shortage,6350.0,1888,3.36,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Los Angeles,Slight Shortage,2800.0,1051,2.66,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Miami,Slight Shortage,9500.0,3154,3.01,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",New York,Slight Shortage,9400.0,2798,3.36,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-06-30,"Yakima, WA",Philadelphia,Slight Shortage,9100.0,2755,3.3,USDA FVWTRK 20260701-fvwtrk.pdf
+2026-07-07,"Tifton, GA",Baltimore,Shortage,4200.0,800,5.25,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Tifton, GA",Boston,Shortage,6000.0,1222,4.91,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Tifton, GA",Chicago,Shortage,3900.0,903,4.32,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Tifton, GA",New York,Shortage,5500.0,996,5.52,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Tifton, GA",Philadelphia,Shortage,4800.0,905,5.3,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Atlanta,Adequate,8450.0,2152,3.93,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Baltimore,Adequate,10100.0,2645,3.82,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Boston,Adequate,11750.0,2996,3.92,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Chicago,Adequate,7700.0,1974,3.9,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Dallas,Adequate,5500.0,1308,4.2,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Miami,Adequate,10500.0,2609,4.02,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",New York,Adequate,11150.0,2814,3.96,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Philadelphia,Adequate,10500.0,2739,3.83,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"El Centro, CA",Seattle,Adequate,7300.0,1302,5.61,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Bakersfield, CA",Baltimore,Adequate,10350.0,2791,3.71,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Bakersfield, CA",Chicago,Adequate,7700.0,2089,3.69,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Bakersfield, CA",New York,Adequate,10800.0,2946,3.67,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Bakersfield, CA",Philadelphia,Adequate,11450.0,2878,3.98,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Nogales, AZ",Los Angeles,Adequate,1600.0,566,2.83,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Atlanta,Slight Surplus,4400.0,1171,3.76,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Baltimore,Slight Surplus,6600.0,1849,3.57,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Boston,Slight Surplus,7900.0,2278,3.47,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Chicago,Slight Surplus,4800.0,1481,3.24,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Dallas,Slight Surplus,2150.0,555,3.87,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Los Angeles,Slight Surplus,4000.0,1580,2.53,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Miami,Slight Surplus,5400.0,1344,4.02,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",New York,Slight Surplus,7400.0,2053,3.6,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"McAllen, TX",Philadelphia,Slight Surplus,6900.0,1960,3.52,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Oxnard, CA",Baltimore,Adequate,10500.0,2835,3.7,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Oxnard, CA",Philadelphia,Adequate,10950.0,2924,3.74,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Salinas, CA",Baltimore,Adequate,11650.0,2919,3.99,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Salinas, CA",Chicago,Adequate,6800.0,2206,3.08,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Salinas, CA",New York,Adequate,12150.0,3067,3.96,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Salinas, CA",Philadelphia,Adequate,11850.0,3002,3.95,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Atlanta,Adequate,9050.0,2454,3.69,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Baltimore,Adequate,10300.0,2892,3.56,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Boston,Adequate,11250.0,3213,3.5,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Chicago,Adequate,6750.0,2190,3.08,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Dallas,Adequate,6400.0,1636,3.91,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Miami,Adequate,12300.0,2956,4.16,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Philadelphia,Adequate,10700.0,2979,3.59,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Santa Maria, CA",Seattle,Adequate,6900.0,1058,6.52,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Atlanta,Slight Shortage,8100.0,2394,3.38,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Baltimore,Adequate,11750.0,2801,4.19,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Baltimore,Slight Shortage,10400.0,2801,3.71,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Boston,Slight Shortage,11600.0,3109,3.73,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Chicago,Adequate,7700.0,2089,3.69,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Chicago,Slight Shortage,6800.0,2089,3.26,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Dallas,Slight Shortage,5600.0,1598,3.5,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Miami,Slight Shortage,10550.0,2926,3.61,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",New York,Adequate,11850.0,2950,4.02,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",New York,Slight Shortage,11000.0,2950,3.73,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Philadelphia,Adequate,11600.0,2884,4.02,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Philadelphia,Slight Shortage,10200.0,2884,3.54,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Fresno, CA",Seattle,Slight Shortage,6450.0,912,7.07,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Baltimore,Adequate,3800.0,705,5.39,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Boston,Adequate,5500.0,1124,4.89,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Chicago,Adequate,3600.0,871,4.13,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Dallas,Adequate,3500.0,1005,3.48,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Los Angeles,Adequate,6000.0,2492,2.41,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Miami,Adequate,2700.0,557,4.85,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",New York,Adequate,5150.0,899,5.73,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Vidalia, GA",Philadelphia,Adequate,4400.0,809,5.44,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Baltimore,Adequate,8200.0,2698,3.04,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Boston,Adequate,8900.0,2903,3.07,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Chicago,Adequate,6000.0,1977,3.03,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Dallas,Adequate,6200.0,1888,3.28,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Los Angeles,Adequate,2800.0,1051,2.66,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Miami,Adequate,9200.0,3154,2.92,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",New York,Adequate,9100.0,2798,3.25,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-07,"Yakima, WA",Philadelphia,Adequate,9100.0,2755,3.3,USDA FVWTRK 20260708-fvwtrk.pdf
+2026-07-14,"Tifton, GA",Baltimore,Shortage,4200.0,800,5.25,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Tifton, GA",Boston,Shortage,5600.0,1222,4.58,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Tifton, GA",Chicago,Shortage,3600.0,903,3.99,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Tifton, GA",New York,Shortage,4800.0,996,4.82,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Tifton, GA",Philadelphia,Shortage,4800.0,905,5.3,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Atlanta,Slight Shortage,8350.0,2152,3.88,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Baltimore,Slight Shortage,10700.0,2645,4.05,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Boston,Slight Shortage,14150.0,2996,4.72,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Chicago,Slight Shortage,7450.0,1974,3.77,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Dallas,Slight Shortage,5600.0,1308,4.28,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Miami,Slight Shortage,9900.0,2609,3.79,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",New York,Slight Shortage,13000.0,2814,4.62,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Philadelphia,Slight Shortage,11150.0,2739,4.07,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"El Centro, CA",Seattle,Slight Shortage,6650.0,1302,5.11,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Bakersfield, CA",Baltimore,Slight Shortage,10550.0,2791,3.78,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Bakersfield, CA",Chicago,Slight Shortage,6450.0,2089,3.09,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Bakersfield, CA",New York,Slight Shortage,12400.0,2946,4.21,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Bakersfield, CA",Philadelphia,Slight Shortage,11900.0,2878,4.13,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Nogales, AZ",Los Angeles,Adequate,1600.0,566,2.83,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Atlanta,Slight Shortage,4300.0,1171,3.67,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Baltimore,Slight Shortage,6500.0,1849,3.52,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Boston,Slight Shortage,7500.0,2278,3.29,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Chicago,Slight Shortage,4700.0,1481,3.17,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Dallas,Slight Shortage,2100.0,555,3.78,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Los Angeles,Slight Shortage,3900.0,1580,2.47,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Miami,Slight Shortage,5300.0,1344,3.94,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",New York,Slight Shortage,7300.0,2053,3.56,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"McAllen, TX",Philadelphia,Slight Shortage,6900.0,1960,3.52,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Oxnard, CA",Baltimore,Slight Shortage,11200.0,2835,3.95,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Oxnard, CA",Philadelphia,Slight Shortage,12550.0,2924,4.29,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Salinas, CA",Baltimore,Slight Shortage,12000.0,2919,4.11,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Salinas, CA",Chicago,Slight Shortage,6500.0,2206,2.95,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Salinas, CA",New York,Slight Shortage,12400.0,3067,4.04,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Salinas, CA",Philadelphia,Slight Shortage,12150.0,3002,4.05,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Atlanta,Slight Shortage,9900.0,2454,4.03,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Baltimore,Slight Shortage,11100.0,2892,3.84,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Boston,Slight Shortage,13000.0,3213,4.05,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Chicago,Slight Shortage,6450.0,2190,2.95,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Dallas,Slight Shortage,6100.0,1636,3.73,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Miami,Slight Shortage,12150.0,2956,4.11,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Philadelphia,Slight Shortage,12300.0,2979,4.13,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Santa Maria, CA",Seattle,Slight Shortage,6550.0,1058,6.19,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Atlanta,Slight Shortage,7900.0,2394,3.3,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Baltimore,Slight Shortage,10850.0,2801,3.87,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Baltimore,Slight Shortage,10900.0,2801,3.89,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Boston,Slight Shortage,11750.0,3109,3.78,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Chicago,Slight Shortage,6900.0,2089,3.3,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Chicago,Slight Shortage,6700.0,2089,3.21,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Dallas,Slight Shortage,5300.0,1598,3.32,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Miami,Slight Shortage,9700.0,2926,3.32,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",New York,Slight Shortage,12500.0,2950,4.24,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",New York,Slight Shortage,11850.0,2950,4.02,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Philadelphia,Slight Shortage,11900.0,2884,4.13,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Philadelphia,Slight Shortage,11400.0,2884,3.95,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Fresno, CA",Seattle,Slight Shortage,6000.0,912,6.58,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Baltimore,Adequate,4100.0,705,5.82,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Boston,Adequate,5800.0,1124,5.16,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Chicago,Adequate,3850.0,871,4.42,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Dallas,Adequate,3900.0,1005,3.88,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Los Angeles,Adequate,6500.0,2492,2.61,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Miami,Adequate,2800.0,557,5.03,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",New York,Adequate,5500.0,899,6.12,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Vidalia, GA",Philadelphia,Adequate,4750.0,809,5.87,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Atlanta,Slight Shortage,7900.0,2495,3.17,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Baltimore,Slight Shortage,8850.0,2698,3.28,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Boston,Slight Shortage,9400.0,2903,3.24,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Chicago,Slight Shortage,6050.0,1977,3.06,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Dallas,Slight Shortage,6350.0,1888,3.36,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Los Angeles,Slight Shortage,3050.0,1051,2.9,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Miami,Slight Shortage,9600.0,3154,3.04,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",New York,Slight Shortage,9100.0,2798,3.25,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-14,"Yakima, WA",Philadelphia,Slight Shortage,8800.0,2755,3.19,USDA FVWTRK 20260715-fvwtrk.pdf
+2026-07-21,"Tifton, GA",Baltimore,Slight Shortage,3400.0,800,4.25,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Tifton, GA",Boston,Slight Shortage,4400.0,1222,3.6,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Tifton, GA",Chicago,Adequate,2700.0,903,2.99,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Tifton, GA",New York,Slight Shortage,3500.0,996,3.51,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Tifton, GA",Philadelphia,Slight Shortage,3400.0,905,3.76,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Atlanta,Adequate,8150.0,2152,3.79,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Baltimore,Adequate,10600.0,2645,4.01,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Boston,Adequate,11900.0,2996,3.97,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Chicago,Adequate,7250.0,1974,3.67,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Dallas,Adequate,5600.0,1308,4.28,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Miami,Adequate,10700.0,2609,4.1,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",New York,Adequate,11150.0,2814,3.96,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Philadelphia,Adequate,10600.0,2739,3.87,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"El Centro, CA",Seattle,Adequate,6650.0,1302,5.11,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Bakersfield, CA",Baltimore,Adequate,10400.0,2791,3.73,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Bakersfield, CA",Chicago,Adequate,7050.0,2089,3.37,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Bakersfield, CA",New York,Adequate,11050.0,2946,3.75,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Bakersfield, CA",Philadelphia,Adequate,11550.0,2878,4.01,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Atlanta,Surplus,4300.0,1171,3.67,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Baltimore,Surplus,6500.0,1849,3.52,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Boston,Surplus,7500.0,2278,3.29,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Chicago,Surplus,4700.0,1481,3.17,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Dallas,Surplus,2100.0,555,3.78,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Los Angeles,Surplus,3900.0,1580,2.47,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Miami,Surplus,5300.0,1344,3.94,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",New York,Surplus,7300.0,2053,3.56,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"McAllen, TX",Philadelphia,Surplus,6900.0,1960,3.52,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Oxnard, CA",Baltimore,Adequate,11150.0,2835,3.93,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Oxnard, CA",Philadelphia,Adequate,11450.0,2924,3.92,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Salinas, CA",Baltimore,Adequate,11800.0,2919,4.04,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Salinas, CA",Chicago,Adequate,6750.0,2206,3.06,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Salinas, CA",New York,Adequate,12100.0,3067,3.95,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Salinas, CA",Philadelphia,Adequate,11800.0,3002,3.93,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Atlanta,Adequate,9550.0,2454,3.89,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Baltimore,Adequate,11000.0,2892,3.8,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Boston,Adequate,11650.0,3213,3.63,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Chicago,Adequate,6900.0,2190,3.15,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Dallas,Adequate,6150.0,1636,3.76,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Miami,Adequate,12400.0,2956,4.19,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Philadelphia,Adequate,11450.0,2979,3.84,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Santa Maria, CA",Seattle,Adequate,6650.0,1058,6.29,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Atlanta,Slight Shortage,8300.0,2394,3.47,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Baltimore,Adequate,10550.0,2801,3.77,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Baltimore,Slight Shortage,10600.0,2801,3.78,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Boston,Slight Shortage,11050.0,3109,3.55,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Chicago,Adequate,7650.0,2089,3.66,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Chicago,Slight Shortage,5600.0,2089,2.68,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Dallas,Slight Shortage,5400.0,1598,3.38,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Miami,Slight Shortage,8700.0,2926,2.97,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",New York,Adequate,11900.0,2950,4.03,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",New York,Slight Shortage,10850.0,2950,3.68,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Philadelphia,Adequate,11650.0,2884,4.04,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Philadelphia,Slight Shortage,10450.0,2884,3.62,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Fresno, CA",Seattle,Slight Shortage,5800.0,912,6.36,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Baltimore,Adequate,4000.0,705,5.67,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Boston,Adequate,5200.0,1124,4.63,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Chicago,Adequate,3700.0,871,4.25,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Dallas,Adequate,3600.0,1005,3.58,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Los Angeles,Adequate,6100.0,2492,2.45,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Miami,Adequate,2700.0,557,4.85,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",New York,Adequate,5150.0,899,5.73,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Vidalia, GA",Philadelphia,Adequate,4500.0,809,5.56,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Baltimore,Adequate,8400.0,2698,3.11,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Boston,Adequate,9300.0,2903,3.2,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Chicago,Adequate,6000.0,1977,3.03,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Dallas,Adequate,6350.0,1888,3.36,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Los Angeles,Adequate,2700.0,1051,2.57,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Miami,Adequate,9500.0,3154,3.01,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",New York,Adequate,9000.0,2798,3.22,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-21,"Yakima, WA",Philadelphia,Adequate,8400.0,2755,3.05,USDA FVWTRK 20260722-fvwtrk.pdf
+2026-07-28,"Salisbury, MD",Atlanta,Slight Shortage,2750.0,704,3.91,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salisbury, MD",Boston,Slight Shortage,2900.0,437,6.64,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Tifton, GA",Baltimore,Slight Shortage,3400.0,800,4.25,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Tifton, GA",Boston,Slight Shortage,4400.0,1222,3.6,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Tifton, GA",Chicago,Adequate,2700.0,903,2.99,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Tifton, GA",New York,Slight Shortage,3500.0,996,3.51,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Tifton, GA",Philadelphia,Slight Shortage,3400.0,905,3.76,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Atlanta,Adequate,8800.0,2152,4.09,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Baltimore,Adequate,9950.0,2645,3.76,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Boston,Adequate,11300.0,2996,3.77,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Chicago,Adequate,7450.0,1974,3.77,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Dallas,Adequate,5850.0,1308,4.47,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Miami,Adequate,10350.0,2609,3.97,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",New York,Adequate,10350.0,2814,3.68,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Philadelphia,Adequate,10250.0,2739,3.74,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"El Centro, CA",Seattle,Adequate,6550.0,1302,5.03,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Bakersfield, CA",Baltimore,Adequate,10000.0,2791,3.58,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Bakersfield, CA",Chicago,Adequate,7000.0,2089,3.35,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Bakersfield, CA",New York,Adequate,10500.0,2946,3.56,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Bakersfield, CA",Philadelphia,Adequate,11400.0,2878,3.96,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Atlanta,Surplus,3900.0,1171,3.33,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Baltimore,Surplus,6000.0,1849,3.24,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Boston,Surplus,7700.0,2278,3.38,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Chicago,Surplus,4300.0,1481,2.9,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Dallas,Surplus,2050.0,555,3.69,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Los Angeles,Surplus,3600.0,1580,2.28,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Miami,Surplus,5300.0,1344,3.94,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",New York,Surplus,7600.0,2053,3.7,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"McAllen, TX",Philadelphia,Surplus,6600.0,1960,3.37,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",Atlanta,Adequate,1800.0,429,4.2,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",Baltimore,Slight Shortage,2600.0,317,8.2,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",Boston,Slight Shortage,4200.0,729,5.76,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",Chicago,Adequate,2700.0,767,3.52,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",New York,Slight Shortage,3500.0,504,6.94,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Raleigh, NC",Philadelphia,Slight Shortage,3000.0,415,7.23,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Oxnard, CA",Baltimore,Adequate,10450.0,2835,3.69,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Oxnard, CA",Philadelphia,Adequate,10500.0,2924,3.59,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salinas, CA",Baltimore,Adequate,11600.0,2919,3.97,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salinas, CA",Chicago,Adequate,6600.0,2206,2.99,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salinas, CA",New York,Adequate,11900.0,3067,3.88,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Salinas, CA",Philadelphia,Adequate,11550.0,3002,3.85,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Atlanta,Adequate,9050.0,2454,3.69,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Baltimore,Adequate,10400.0,2892,3.6,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Boston,Adequate,12250.0,3213,3.81,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Chicago,Adequate,7000.0,2190,3.2,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Dallas,Adequate,6100.0,1636,3.73,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Miami,Adequate,12050.0,2956,4.08,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Philadelphia,Adequate,10700.0,2979,3.59,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Santa Maria, CA",Seattle,Adequate,6650.0,1058,6.29,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Atlanta,Slight Shortage,7900.0,2394,3.3,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Baltimore,Adequate,9950.0,2801,3.55,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Baltimore,Shortage,10600.0,2801,3.78,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Chicago,Adequate,7600.0,2089,3.64,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Chicago,Slight Shortage,6000.0,2089,2.87,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Dallas,Slight Shortage,5200.0,1598,3.25,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Miami,Shortage,9000.0,2926,3.08,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",New York,Adequate,11600.0,2950,3.93,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",New York,Shortage,10850.0,2950,3.68,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Philadelphia,Adequate,11300.0,2884,3.92,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Philadelphia,Shortage,10450.0,2884,3.62,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Fresno, CA",Seattle,Slight Shortage,6000.0,912,6.58,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Baltimore,Adequate,3500.0,705,4.96,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Chicago,Adequate,3400.0,871,3.9,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Dallas,Adequate,3250.0,1005,3.23,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Los Angeles,Adequate,5600.0,2492,2.25,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Miami,Adequate,2600.0,557,4.67,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Vidalia, GA",Philadelphia,Adequate,4100.0,809,5.07,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Baltimore,Adequate,8300.0,2698,3.08,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Boston,Adequate,9300.0,2903,3.2,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Chicago,Adequate,5900.0,1977,2.98,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Dallas,Adequate,6600.0,1888,3.5,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Los Angeles,Adequate,2700.0,1051,2.57,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Miami,Adequate,9300.0,3154,2.95,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",New York,Adequate,9000.0,2798,3.22,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-07-28,"Yakima, WA",Philadelphia,Adequate,8550.0,2755,3.1,USDA FVWTRK 20260729-fvwtrk.pdf
+2026-08-04,"Salisbury, MD",Atlanta,Slight Shortage,3000.0,704,4.26,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salisbury, MD",Boston,Slight Shortage,2900.0,437,6.64,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Atlanta,Adequate,8850.0,2152,4.11,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Baltimore,Adequate,10150.0,2645,3.84,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Boston,Adequate,11100.0,2996,3.7,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Chicago,Adequate,6900.0,1974,3.5,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Dallas,Adequate,6050.0,1308,4.63,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Miami,Adequate,9950.0,2609,3.81,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",New York,Adequate,10800.0,2814,3.84,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Philadelphia,Adequate,10300.0,2739,3.76,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"El Centro, CA",Seattle,Adequate,6250.0,1302,4.8,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Bakersfield, CA",Baltimore,Adequate,9850.0,2791,3.53,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Bakersfield, CA",Chicago,Adequate,6550.0,2089,3.14,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Bakersfield, CA",New York,Adequate,10450.0,2946,3.55,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Bakersfield, CA",Philadelphia,Adequate,11250.0,2878,3.91,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Atlanta,Surplus,3900.0,1171,3.33,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Baltimore,Surplus,5900.0,1849,3.19,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Boston,Surplus,7600.0,2278,3.34,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Chicago,Surplus,4400.0,1481,2.97,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Dallas,Surplus,2050.0,555,3.69,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Los Angeles,Surplus,3600.0,1580,2.28,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Miami,Surplus,5300.0,1344,3.94,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",New York,Surplus,7600.0,2053,3.7,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"McAllen, TX",Philadelphia,Surplus,6600.0,1960,3.37,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",Atlanta,Adequate,1800.0,429,4.2,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",Baltimore,Adequate,2000.0,317,6.31,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",Boston,Adequate,4000.0,729,5.49,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",Chicago,Adequate,2500.0,767,3.26,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",New York,Adequate,3000.0,504,5.95,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Raleigh, NC",Philadelphia,Adequate,2500.0,415,6.02,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Oxnard, CA",Baltimore,Adequate,10600.0,2835,3.74,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Oxnard, CA",Philadelphia,Adequate,10550.0,2924,3.61,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salinas, CA",Baltimore,Adequate,11100.0,2919,3.8,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salinas, CA",Chicago,Adequate,7300.0,2206,3.31,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salinas, CA",New York,Adequate,11900.0,3067,3.88,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Salinas, CA",Philadelphia,Adequate,11400.0,3002,3.8,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Atlanta,Adequate,8950.0,2454,3.65,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Baltimore,Adequate,9300.0,2892,3.22,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Boston,Adequate,11800.0,3213,3.67,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Chicago,Adequate,6600.0,2190,3.01,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Dallas,Adequate,6200.0,1636,3.79,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Miami,Adequate,12000.0,2956,4.06,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Philadelphia,Adequate,9450.0,2979,3.17,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Santa Maria, CA",Seattle,Adequate,6150.0,1058,5.81,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Atlanta,Slight Shortage,7900.0,2394,3.3,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Baltimore,Adequate,10300.0,2801,3.68,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Baltimore,Slight Shortage,10200.0,2801,3.64,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Chicago,Adequate,7200.0,2089,3.45,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Chicago,Slight Shortage,6100.0,2089,2.92,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Dallas,Slight Shortage,5300.0,1598,3.32,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Miami,Shortage,9300.0,2926,3.18,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",New York,Adequate,11600.0,2950,3.93,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",New York,Shortage,11150.0,2950,3.78,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Philadelphia,Adequate,11100.0,2884,3.85,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Philadelphia,Slight Shortage,10450.0,2884,3.62,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Fresno, CA",Seattle,Slight Shortage,5600.0,912,6.14,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Baltimore,Adequate,3500.0,705,4.96,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Chicago,Adequate,3400.0,871,3.9,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Dallas,Adequate,3250.0,1005,3.23,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Los Angeles,Adequate,5600.0,2492,2.25,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Miami,Adequate,2600.0,557,4.67,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Vidalia, GA",Philadelphia,Adequate,4100.0,809,5.07,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Baltimore,Adequate,8300.0,2698,3.08,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Boston,Adequate,8900.0,2903,3.07,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Chicago,Adequate,5900.0,1977,2.98,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Dallas,Adequate,6400.0,1888,3.39,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Los Angeles,Adequate,2700.0,1051,2.57,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Miami,Adequate,9300.0,3154,2.95,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",New York,Adequate,8800.0,2798,3.15,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-04,"Yakima, WA",Philadelphia,Adequate,8400.0,2755,3.05,USDA FVWTRK 20260805-fvwtrk.pdf
+2026-08-11,"Salisbury, MD",Atlanta,Slight Shortage,3400.0,704,4.83,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salisbury, MD",Boston,Slight Shortage,3100.0,437,7.09,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Atlanta,Adequate,8200.0,2152,3.81,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Baltimore,Adequate,9750.0,2645,3.69,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Boston,Adequate,10950.0,2996,3.65,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Chicago,Adequate,7000.0,1974,3.55,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Dallas,Adequate,5550.0,1308,4.24,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Miami,Adequate,10100.0,2609,3.87,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",New York,Adequate,9600.0,2814,3.41,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Philadelphia,Adequate,9800.0,2739,3.58,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"El Centro, CA",Seattle,Adequate,7500.0,1302,5.76,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Bakersfield, CA",Baltimore,Adequate,9450.0,2791,3.39,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Bakersfield, CA",Chicago,Adequate,6950.0,2089,3.33,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Bakersfield, CA",New York,Adequate,10100.0,2946,3.43,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Bakersfield, CA",Philadelphia,Adequate,10550.0,2878,3.67,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Atlanta,Surplus,3500.0,1171,2.99,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Baltimore,Surplus,5400.0,1849,2.92,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Boston,Surplus,7200.0,2278,3.16,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Chicago,Surplus,3900.0,1481,2.63,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Dallas,Surplus,1900.0,555,3.42,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Los Angeles,Surplus,3400.0,1580,2.15,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Miami,Surplus,5000.0,1344,3.72,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",New York,Surplus,7200.0,2053,3.51,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"McAllen, TX",Philadelphia,Surplus,6200.0,1960,3.16,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",Atlanta,Adequate,1800.0,429,4.2,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",Baltimore,Adequate,2100.0,317,6.62,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",Boston,Adequate,4000.0,729,5.49,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",Chicago,Adequate,2500.0,767,3.26,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",New York,Adequate,3000.0,504,5.95,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Raleigh, NC",Philadelphia,Adequate,2500.0,415,6.02,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Oxnard, CA",Baltimore,Adequate,9850.0,2835,3.47,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Oxnard, CA",Philadelphia,Adequate,10150.0,2924,3.47,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salinas, CA",Baltimore,Adequate,10550.0,2919,3.61,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salinas, CA",Chicago,Adequate,7050.0,2206,3.2,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salinas, CA",New York,Adequate,10800.0,3067,3.52,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Salinas, CA",Philadelphia,Adequate,10800.0,3002,3.6,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Atlanta,Adequate,8400.0,2454,3.42,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Baltimore,Adequate,9350.0,2892,3.23,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Boston,Adequate,12050.0,3213,3.75,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Chicago,Adequate,7350.0,2190,3.36,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Dallas,Adequate,6150.0,1636,3.76,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Miami,Adequate,11450.0,2956,3.87,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",New York,Adequate,9800.0,3048,3.22,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Philadelphia,Adequate,9550.0,2979,3.21,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Santa Maria, CA",Seattle,Adequate,7050.0,1058,6.66,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Atlanta,Slight Shortage,7900.0,2394,3.3,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Baltimore,Adequate,9800.0,2801,3.5,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Baltimore,Slight Shortage,10200.0,2801,3.64,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Boston,Shortage,10550.0,3109,3.39,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Chicago,Adequate,6750.0,2089,3.23,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Chicago,Slight Shortage,6100.0,2089,2.92,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Dallas,Slight Shortage,5300.0,1598,3.32,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Miami,Shortage,9300.0,2926,3.18,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",New York,Adequate,10850.0,2950,3.68,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",New York,Shortage,10450.0,2950,3.54,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Philadelphia,Adequate,10650.0,2884,3.69,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Philadelphia,Slight Shortage,10050.0,2884,3.48,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Fresno, CA",Seattle,Slight Shortage,5600.0,912,6.14,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Baltimore,Adequate,3200.0,705,4.54,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Boston,Adequate,4150.0,1124,3.69,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Chicago,Adequate,2900.0,871,3.33,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Dallas,Adequate,3125.0,1005,3.11,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",New York,Adequate,3950.0,899,4.39,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Vidalia, GA",Philadelphia,Adequate,3600.0,809,4.45,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Baltimore,Adequate,8300.0,2698,3.08,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Boston,Adequate,8900.0,2903,3.07,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Chicago,Adequate,5900.0,1977,2.98,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Dallas,Adequate,6400.0,1888,3.39,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Los Angeles,Adequate,2700.0,1051,2.57,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Miami,Adequate,9300.0,3154,2.95,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",New York,Adequate,8800.0,2798,3.15,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-11,"Yakima, WA",Philadelphia,Adequate,8400.0,2755,3.05,USDA FVWTRK 20260812-fvwtrk.pdf
+2026-08-18,"Salisbury, MD",Atlanta,Slight Shortage,3500.0,704,4.97,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salisbury, MD",Boston,Slight Shortage,3000.0,437,6.86,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salisbury, MD",Chicago,Adequate,2400.0,818,2.93,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Atlanta,Adequate,7550.0,2152,3.51,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Baltimore,Adequate,10000.0,2645,3.78,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Boston,Adequate,10700.0,2996,3.57,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Chicago,Adequate,6950.0,1974,3.52,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Dallas,Adequate,5300.0,1308,4.05,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Miami,Adequate,10250.0,2609,3.93,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",New York,Adequate,11300.0,2814,4.02,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Philadelphia,Adequate,10050.0,2739,3.67,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"El Centro, CA",Seattle,Adequate,7250.0,1302,5.57,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Bakersfield, CA",Baltimore,Adequate,9850.0,2791,3.53,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Bakersfield, CA",Chicago,Adequate,6600.0,2089,3.16,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Bakersfield, CA",New York,Adequate,10950.0,2946,3.72,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Bakersfield, CA",Philadelphia,Adequate,10150.0,2878,3.53,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Atlanta,Surplus,3500.0,1171,2.99,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Baltimore,Surplus,4500.0,1849,2.43,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Boston,Surplus,6900.0,2278,3.03,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Chicago,Surplus,3700.0,1481,2.5,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Dallas,Surplus,1800.0,555,3.24,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Los Angeles,Surplus,3300.0,1580,2.09,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Miami,Surplus,4900.0,1344,3.65,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",New York,Surplus,6500.0,2053,3.17,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"McAllen, TX",Philadelphia,Surplus,6100.0,1960,3.11,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",Atlanta,Adequate,1900.0,429,4.43,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",Baltimore,Adequate,2000.0,317,6.31,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",Boston,Adequate,3700.0,729,5.08,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",Chicago,Adequate,2500.0,767,3.26,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",New York,Adequate,2900.0,504,5.75,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Raleigh, NC",Philadelphia,Adequate,2500.0,415,6.02,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Oxnard, CA",Baltimore,Adequate,9700.0,2835,3.42,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Oxnard, CA",Philadelphia,Adequate,9750.0,2924,3.33,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salinas, CA",Baltimore,Adequate,10450.0,2919,3.58,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salinas, CA",Chicago,Adequate,6400.0,2206,2.9,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salinas, CA",New York,Adequate,10750.0,3067,3.51,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Salinas, CA",Philadelphia,Adequate,10500.0,3002,3.5,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Atlanta,Adequate,8200.0,2454,3.34,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Baltimore,Adequate,9600.0,2892,3.32,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Boston,Adequate,10400.0,3213,3.24,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Chicago,Adequate,6250.0,2190,2.85,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Dallas,Adequate,5700.0,1636,3.48,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Miami,Adequate,11650.0,2956,3.94,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",New York,Adequate,10050.0,3048,3.3,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Philadelphia,Adequate,10450.0,2979,3.51,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Santa Maria, CA",Seattle,Adequate,5400.0,1058,5.1,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Atlanta,Adequate,7900.0,2394,3.3,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Baltimore,Adequate,8950.0,2801,3.2,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Baltimore,Adequate,10100.0,2801,3.61,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Boston,Slight Shortage,10200.0,3109,3.28,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Chicago,Adequate,6450.0,2089,3.09,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Chicago,Adequate,6700.0,2089,3.21,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Dallas,Adequate,5300.0,1598,3.32,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Miami,Slight Shortage,9300.0,2926,3.18,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",New York,Adequate,10650.0,2950,3.61,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",New York,Slight Shortage,9500.0,2950,3.22,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Philadelphia,Adequate,10300.0,2884,3.57,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Philadelphia,Adequate,9300.0,2884,3.22,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Fresno, CA",Seattle,Adequate,5300.0,912,5.81,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Baltimore,Adequate,3200.0,705,4.54,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Boston,Adequate,4150.0,1124,3.69,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Chicago,Adequate,2900.0,871,3.33,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Dallas,Adequate,3125.0,1005,3.11,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",New York,Adequate,3950.0,899,4.39,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Vidalia, GA",Philadelphia,Adequate,3600.0,809,4.45,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Atlanta,Adequate,7900.0,2495,3.17,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Baltimore,Adequate,8800.0,2698,3.26,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Boston,Adequate,8900.0,2903,3.07,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Chicago,Adequate,5900.0,1977,2.98,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Dallas,Adequate,6400.0,1888,3.39,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Los Angeles,Adequate,2700.0,1051,2.57,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Miami,Adequate,9200.0,3154,2.92,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",New York,Adequate,9500.0,2798,3.4,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-18,"Yakima, WA",Philadelphia,Adequate,8500.0,2755,3.09,USDA FVWTRK 20260819-fvwtrk.pdf
+2026-08-25,"Salisbury, MD",Atlanta,Shortage,4000.0,704,5.68,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salisbury, MD",Boston,Slight Shortage,3200.0,437,7.32,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salisbury, MD",Chicago,Slight Shortage,2800.0,818,3.42,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Atlanta,Adequate,7350.0,2152,3.42,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Baltimore,Adequate,9800.0,2645,3.71,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Boston,Adequate,10500.0,2996,3.5,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Chicago,Adequate,7200.0,1974,3.65,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Dallas,Adequate,4900.0,1308,3.75,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Miami,Adequate,10150.0,2609,3.89,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",New York,Adequate,11000.0,2814,3.91,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Philadelphia,Adequate,9600.0,2739,3.5,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"El Centro, CA",Seattle,Adequate,6650.0,1302,5.11,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Bakersfield, CA",Baltimore,Adequate,10100.0,2791,3.62,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Bakersfield, CA",Chicago,Adequate,6900.0,2089,3.3,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Bakersfield, CA",New York,Adequate,11300.0,2946,3.84,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Bakersfield, CA",Philadelphia,Adequate,10400.0,2878,3.61,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Atlanta,Surplus,3400.0,1171,2.9,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Baltimore,Surplus,4400.0,1849,2.38,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Boston,Surplus,6300.0,2278,2.77,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Chicago,Surplus,3700.0,1481,2.5,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Dallas,Surplus,1800.0,555,3.24,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Los Angeles,Surplus,3200.0,1580,2.03,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Miami,Surplus,4900.0,1344,3.65,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",New York,Surplus,6300.0,2053,3.07,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"McAllen, TX",Philadelphia,Surplus,5800.0,1960,2.96,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",Atlanta,Adequate,1900.0,429,4.43,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",Baltimore,Adequate,2100.0,317,6.62,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",Boston,Adequate,3700.0,729,5.08,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",Chicago,Adequate,2500.0,767,3.26,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",New York,Adequate,3000.0,504,5.95,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Raleigh, NC",Philadelphia,Adequate,2400.0,415,5.78,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Oxnard, CA",Baltimore,Adequate,10200.0,2835,3.6,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Oxnard, CA",Philadelphia,Adequate,9250.0,2924,3.16,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salinas, CA",Baltimore,Adequate,10600.0,2919,3.63,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salinas, CA",Chicago,Adequate,6800.0,2206,3.08,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salinas, CA",New York,Adequate,11350.0,3067,3.7,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Salinas, CA",Philadelphia,Adequate,10850.0,3002,3.61,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Atlanta,Adequate,8550.0,2454,3.48,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Baltimore,Adequate,10600.0,2892,3.67,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Boston,Adequate,13750.0,3213,4.28,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Chicago,Adequate,6650.0,2190,3.04,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Dallas,Adequate,5750.0,1636,3.51,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Miami,Adequate,10650.0,2956,3.6,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",New York,Adequate,10400.0,3048,3.41,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Philadelphia,Adequate,10100.0,2979,3.39,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Santa Maria, CA",Seattle,Adequate,5850.0,1058,5.53,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Atlanta,Slight Shortage,7900.0,2394,3.3,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Baltimore,Adequate,9350.0,2801,3.34,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Baltimore,Adequate,8800.0,2801,3.14,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Boston,Slight Shortage,9550.0,3109,3.07,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Chicago,Adequate,6500.0,2089,3.11,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Chicago,Adequate,6150.0,2089,2.94,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Dallas,Adequate,5500.0,1598,3.44,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Miami,Shortage,9550.0,2926,3.26,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",New York,Adequate,10850.0,2950,3.68,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",New York,Slight Shortage,9650.0,2950,3.27,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Philadelphia,Adequate,10650.0,2884,3.69,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Philadelphia,Slight Shortage,9350.0,2884,3.24,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Fresno, CA",Seattle,Adequate,5300.0,912,5.81,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Baltimore,Adequate,3200.0,705,4.54,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Boston,Adequate,4150.0,1124,3.69,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Chicago,Adequate,2900.0,871,3.33,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Dallas,Adequate,3125.0,1005,3.11,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",New York,Adequate,3950.0,899,4.39,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Vidalia, GA",Philadelphia,Adequate,3600.0,809,4.45,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Atlanta,Slight Shortage,8200.0,2495,3.29,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Baltimore,Slight Shortage,9200.0,2698,3.41,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Boston,Slight Shortage,9800.0,2903,3.38,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Chicago,Slight Shortage,6800.0,1977,3.44,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Dallas,Slight Shortage,6550.0,1888,3.47,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Los Angeles,Slight Shortage,2700.0,1051,2.57,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Miami,Shortage,10300.0,3154,3.27,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",New York,Slight Shortage,9500.0,2798,3.4,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-08-25,"Yakima, WA",Philadelphia,Slight Shortage,9400.0,2755,3.41,USDA FVWTRK 20260826-fvwtrk.pdf
+2026-09-01,"Salisbury, MD",Atlanta,Shortage,3800.0,704,5.4,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salisbury, MD",Boston,Slight Shortage,3000.0,437,6.86,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salisbury, MD",Chicago,Slight Shortage,2700.0,818,3.3,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Atlanta,Slight Shortage,7650.0,2152,3.55,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Baltimore,Slight Shortage,8850.0,2645,3.35,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Boston,Slight Shortage,10550.0,2996,3.52,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Chicago,Slight Shortage,7450.0,1974,3.77,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Dallas,Slight Shortage,5150.0,1308,3.94,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Miami,Slight Shortage,9600.0,2609,3.68,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",New York,Slight Shortage,10000.0,2814,3.55,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Philadelphia,Slight Shortage,8750.0,2739,3.19,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"El Centro, CA",Seattle,Slight Shortage,6900.0,1302,5.3,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Bakersfield, CA",Baltimore,Slight Shortage,9800.0,2791,3.51,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Bakersfield, CA",Chicago,Slight Shortage,6650.0,2089,3.18,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Bakersfield, CA",New York,Slight Shortage,10800.0,2946,3.67,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Bakersfield, CA",Philadelphia,Slight Shortage,10650.0,2878,3.7,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Atlanta,Surplus,3500.0,1171,2.99,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Baltimore,Surplus,5000.0,1849,2.7,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Boston,Surplus,6800.0,2278,2.99,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Chicago,Surplus,3850.0,1481,2.6,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Dallas,Surplus,1950.0,555,3.51,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Los Angeles,Surplus,3700.0,1580,2.34,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Miami,Surplus,4900.0,1344,3.65,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",New York,Surplus,6650.0,2053,3.24,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"McAllen, TX",Philadelphia,Surplus,5800.0,1960,2.96,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",Atlanta,Adequate,1900.0,429,4.43,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",Baltimore,Adequate,2100.0,317,6.62,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",Boston,Adequate,3500.0,729,4.8,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",Chicago,Adequate,2500.0,767,3.26,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",New York,Adequate,2800.0,504,5.56,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Raleigh, NC",Philadelphia,Adequate,2000.0,415,4.82,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Oxnard, CA",Baltimore,Slight Shortage,10150.0,2835,3.58,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Oxnard, CA",Philadelphia,Slight Shortage,9800.0,2924,3.35,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salinas, CA",Baltimore,Slight Shortage,11050.0,2919,3.79,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salinas, CA",Chicago,Slight Shortage,6600.0,2206,2.99,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salinas, CA",New York,Slight Shortage,11150.0,3067,3.64,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Salinas, CA",Philadelphia,Slight Shortage,11000.0,3002,3.66,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Atlanta,Slight Shortage,8400.0,2454,3.42,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Baltimore,Slight Shortage,10350.0,2892,3.58,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Boston,Slight Shortage,10950.0,3213,3.41,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Chicago,Slight Shortage,7000.0,2190,3.2,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Dallas,Slight Shortage,6350.0,1636,3.88,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Miami,Slight Shortage,10700.0,2956,3.62,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",New York,Slight Shortage,10700.0,3048,3.51,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Philadelphia,Slight Shortage,10050.0,2979,3.37,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Santa Maria, CA",Seattle,Slight Shortage,5450.0,1058,5.15,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Atlanta,Slight Shortage,8100.0,2394,3.38,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Baltimore,Slight Shortage,9200.0,2801,3.28,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Baltimore,Slight Shortage,9000.0,2801,3.21,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Boston,Slight Shortage,9550.0,3109,3.07,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Chicago,Slight Shortage,6550.0,2089,3.14,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Chicago,Slight Shortage,5800.0,2089,2.78,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Dallas,Slight Shortage,5550.0,1598,3.47,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Miami,Shortage,9550.0,2926,3.26,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",New York,Slight Shortage,11450.0,2950,3.88,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",New York,Shortage,9650.0,2950,3.27,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Philadelphia,Slight Shortage,10950.0,2884,3.8,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Philadelphia,Slight Shortage,9350.0,2884,3.24,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Fresno, CA",Seattle,Slight Shortage,4950.0,912,5.43,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Baltimore,Adequate,3050.0,705,4.33,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Boston,Adequate,3900.0,1124,3.47,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Chicago,Adequate,2800.0,871,3.21,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Dallas,Adequate,2950.0,1005,2.94,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",New York,Adequate,3750.0,899,4.17,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Vidalia, GA",Philadelphia,Adequate,3450.0,809,4.26,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Atlanta,Slight Shortage,8200.0,2495,3.29,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Baltimore,Slight Shortage,9200.0,2698,3.41,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Boston,Slight Shortage,9800.0,2903,3.38,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Chicago,Slight Shortage,6750.0,1977,3.41,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Dallas,Slight Shortage,6550.0,1888,3.47,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Los Angeles,Slight Shortage,2700.0,1051,2.57,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Miami,Shortage,10300.0,3154,3.27,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",New York,Slight Shortage,9500.0,2798,3.4,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-01,"Yakima, WA",Philadelphia,Slight Shortage,9400.0,2755,3.41,USDA FVWTRK 20260902-fvwtrk.pdf
+2026-09-08,"Salisbury, MD",Atlanta,Shortage,3650.0,704,5.18,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salisbury, MD",Boston,Slight Shortage,2950.0,437,6.75,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salisbury, MD",Chicago,Slight Shortage,2650.0,818,3.24,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Atlanta,Slight Shortage,7100.0,2152,3.3,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Baltimore,Slight Shortage,9100.0,2645,3.44,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Boston,Slight Shortage,9900.0,2996,3.3,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Chicago,Slight Shortage,6500.0,1974,3.29,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Dallas,Slight Shortage,5450.0,1308,4.17,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Miami,Slight Shortage,9100.0,2609,3.49,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",New York,Slight Shortage,10100.0,2814,3.59,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Philadelphia,Slight Shortage,9400.0,2739,3.43,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"El Centro, CA",Seattle,Slight Shortage,6300.0,1302,4.84,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Bakersfield, CA",Baltimore,Slight Shortage,10000.0,2791,3.58,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Bakersfield, CA",Chicago,Slight Shortage,7000.0,2089,3.35,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Bakersfield, CA",New York,Slight Shortage,10900.0,2946,3.7,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Bakersfield, CA",Philadelphia,Slight Shortage,10650.0,2878,3.7,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Atlanta,Surplus,3500.0,1171,2.99,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Baltimore,Surplus,5000.0,1849,2.7,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Boston,Surplus,6800.0,2278,2.99,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Chicago,Surplus,3850.0,1481,2.6,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Dallas,Surplus,1950.0,555,3.51,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Los Angeles,Surplus,3700.0,1580,2.34,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Miami,Surplus,4900.0,1344,3.65,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",New York,Surplus,6650.0,2053,3.24,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"McAllen, TX",Philadelphia,Surplus,5800.0,1960,2.96,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",Atlanta,Adequate,1850.0,429,4.31,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",Baltimore,Adequate,2050.0,317,6.47,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",Boston,Adequate,3450.0,729,4.73,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",Chicago,Adequate,2450.0,767,3.19,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",New York,Adequate,2750.0,504,5.46,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Raleigh, NC",Philadelphia,Adequate,1950.0,415,4.7,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Oxnard, CA",Baltimore,Slight Shortage,9650.0,2835,3.4,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Oxnard, CA",Philadelphia,Slight Shortage,9550.0,2924,3.27,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salinas, CA",Baltimore,Slight Shortage,11050.0,2919,3.79,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salinas, CA",Chicago,Slight Shortage,6200.0,2206,2.81,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salinas, CA",New York,Slight Shortage,10600.0,3067,3.46,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Salinas, CA",Philadelphia,Slight Shortage,11100.0,3002,3.7,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Atlanta,Slight Shortage,8350.0,2454,3.4,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Baltimore,Slight Shortage,10000.0,2892,3.46,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Boston,Slight Shortage,10200.0,3213,3.17,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Chicago,Slight Shortage,6150.0,2190,2.81,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Dallas,Slight Shortage,6400.0,1636,3.91,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Miami,Slight Shortage,10900.0,2956,3.69,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",New York,Slight Shortage,10650.0,3048,3.49,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Philadelphia,Slight Shortage,10200.0,2979,3.42,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Santa Maria, CA",Seattle,Slight Shortage,4900.0,1058,4.63,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Atlanta,Slight Shortage,8150.0,2394,3.4,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Baltimore,Slight Shortage,9750.0,2801,3.48,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Baltimore,Slight Shortage,9400.0,2801,3.36,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Boston,Slight Shortage,9650.0,3109,3.1,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Chicago,Slight Shortage,7200.0,2089,3.45,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Chicago,Slight Shortage,5800.0,2089,2.78,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Dallas,Slight Shortage,5300.0,1598,3.32,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Miami,Shortage,9550.0,2926,3.26,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",New York,Slight Shortage,10900.0,2950,3.69,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",New York,Shortage,9500.0,2950,3.22,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Philadelphia,Slight Shortage,10950.0,2884,3.8,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Philadelphia,Slight Shortage,9200.0,2884,3.19,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Fresno, CA",Seattle,Slight Shortage,4950.0,912,5.43,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Baltimore,Adequate,3050.0,705,4.33,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Boston,Adequate,3900.0,1124,3.47,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Chicago,Adequate,2800.0,871,3.21,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Dallas,Adequate,2950.0,1005,2.94,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",New York,Adequate,3750.0,899,4.17,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Vidalia, GA",Philadelphia,Adequate,3450.0,809,4.26,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Atlanta,Shortage,9200.0,2495,3.69,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Baltimore,Shortage,9900.0,2698,3.67,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Boston,Shortage,10800.0,2903,3.72,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Chicago,Shortage,7100.0,1977,3.59,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Dallas,Shortage,6900.0,1888,3.65,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Los Angeles,Shortage,3700.0,1051,3.52,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Miami,Shortage,13000.0,3154,4.12,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",New York,Shortage,10450.0,2798,3.73,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-08,"Yakima, WA",Philadelphia,Shortage,10150.0,2755,3.68,USDA FVWTRK 20260909-fvwtrk.pdf
+2026-09-15,"Salisbury, MD",Atlanta,Shortage,3700.0,704,5.26,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salisbury, MD",Boston,Slight Shortage,2800.0,437,6.41,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salisbury, MD",Chicago,Slight Shortage,2600.0,818,3.18,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Atlanta,Slight Shortage,7900.0,2152,3.67,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Baltimore,Slight Shortage,9000.0,2645,3.4,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Boston,Slight Shortage,10600.0,2996,3.54,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Chicago,Slight Shortage,6550.0,1974,3.32,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Dallas,Slight Shortage,5350.0,1308,4.09,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Miami,Slight Shortage,8750.0,2609,3.35,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",New York,Slight Shortage,9600.0,2814,3.41,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Philadelphia,Slight Shortage,9150.0,2739,3.34,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"El Centro, CA",Seattle,Slight Shortage,6650.0,1302,5.11,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Bakersfield, CA",Baltimore,Slight Shortage,9450.0,2791,3.39,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Bakersfield, CA",Chicago,Slight Shortage,6300.0,2089,3.02,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Bakersfield, CA",New York,Slight Shortage,9550.0,2946,3.24,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Bakersfield, CA",Philadelphia,Slight Shortage,10650.0,2878,3.7,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Atlanta,Slight Surplus,3500.0,1171,2.99,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Baltimore,Slight Surplus,5350.0,1849,2.89,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Boston,Slight Surplus,7750.0,2278,3.4,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Chicago,Slight Surplus,4000.0,1481,2.7,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Dallas,Slight Surplus,2100.0,555,3.78,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Los Angeles,Slight Surplus,3700.0,1580,2.34,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Miami,Slight Surplus,5350.0,1344,3.98,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",New York,Slight Surplus,6500.0,2053,3.17,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"McAllen, TX",Philadelphia,Slight Surplus,5800.0,1960,2.96,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",Atlanta,Adequate,1900.0,429,4.43,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",Baltimore,Adequate,1900.0,317,5.99,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",Boston,Adequate,3500.0,729,4.8,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",Chicago,Adequate,2300.0,767,3.0,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",New York,Adequate,2700.0,504,5.36,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Raleigh, NC",Philadelphia,Adequate,2000.0,415,4.82,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Oxnard, CA",Baltimore,Slight Shortage,9450.0,2835,3.33,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Oxnard, CA",Philadelphia,Slight Shortage,9450.0,2924,3.23,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salinas, CA",Baltimore,Slight Shortage,11050.0,2919,3.79,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salinas, CA",Chicago,Slight Shortage,5700.0,2206,2.58,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salinas, CA",New York,Slight Shortage,10350.0,3067,3.37,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Salinas, CA",Philadelphia,Slight Shortage,11100.0,3002,3.7,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Atlanta,Slight Shortage,8350.0,2454,3.4,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Baltimore,Slight Shortage,9800.0,2892,3.39,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Boston,Slight Shortage,10800.0,3213,3.36,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Chicago,Slight Shortage,6600.0,2190,3.01,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Dallas,Slight Shortage,6250.0,1636,3.82,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Miami,Slight Shortage,10450.0,2956,3.54,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",New York,Slight Shortage,9950.0,3048,3.26,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Philadelphia,Slight Shortage,9700.0,2979,3.26,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Santa Maria, CA",Seattle,Slight Shortage,5400.0,1058,5.1,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Atlanta,Slight Shortage,8150.0,2394,3.4,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Baltimore,Slight Shortage,9400.0,2801,3.36,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Baltimore,Slight Shortage,9400.0,2801,3.36,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Boston,Slight Shortage,9650.0,3109,3.1,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Chicago,Slight Shortage,6550.0,2089,3.14,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Chicago,Slight Shortage,5800.0,2089,2.78,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Dallas,Slight Shortage,5300.0,1598,3.32,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Miami,Shortage,9550.0,2926,3.26,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",New York,Slight Shortage,9650.0,2950,3.27,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",New York,Shortage,9500.0,2950,3.22,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Philadelphia,Slight Shortage,10950.0,2884,3.8,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Philadelphia,Slight Shortage,9200.0,2884,3.19,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Fresno, CA",Seattle,Slight Shortage,4950.0,912,5.43,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Baltimore,Adequate,3050.0,705,4.33,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Boston,Adequate,3900.0,1124,3.47,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Chicago,Adequate,2800.0,871,3.21,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Dallas,Adequate,2950.0,1005,2.94,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",New York,Adequate,3750.0,899,4.17,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Vidalia, GA",Philadelphia,Adequate,3450.0,809,4.26,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Atlanta,Shortage,9200.0,2495,3.69,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Baltimore,Shortage,9900.0,2698,3.67,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Boston,Shortage,10800.0,2903,3.72,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Chicago,Shortage,7100.0,1977,3.59,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Dallas,Shortage,6900.0,1888,3.65,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Los Angeles,Shortage,3700.0,1051,3.52,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Miami,Shortage,13000.0,3154,4.12,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",New York,Shortage,10450.0,2798,3.73,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-15,"Yakima, WA",Philadelphia,Shortage,10150.0,2755,3.68,USDA FVWTRK 20260916-fvwtrk.pdf
+2026-09-22,"Salisbury, MD",Atlanta,Shortage,3650.0,704,5.18,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salisbury, MD",Boston,Slight Shortage,2900.0,437,6.64,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Atlanta,Slight Shortage,7900.0,2152,3.67,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Baltimore,Slight Shortage,9000.0,2645,3.4,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Boston,Slight Shortage,10600.0,2996,3.54,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Chicago,Slight Shortage,6550.0,1974,3.32,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Dallas,Slight Shortage,5350.0,1308,4.09,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Miami,Slight Shortage,8750.0,2609,3.35,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",New York,Slight Shortage,9600.0,2814,3.41,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Philadelphia,Slight Shortage,9150.0,2739,3.34,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"El Centro, CA",Seattle,Slight Shortage,6650.0,1302,5.11,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Bakersfield, CA",Baltimore,Slight Shortage,9450.0,2791,3.39,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Bakersfield, CA",Chicago,Slight Shortage,6300.0,2089,3.02,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Bakersfield, CA",New York,Slight Shortage,9550.0,2946,3.24,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Bakersfield, CA",Philadelphia,Slight Shortage,10650.0,2878,3.7,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Atlanta,Slight Surplus,3500.0,1171,2.99,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Baltimore,Slight Surplus,5800.0,1849,3.14,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Boston,Slight Surplus,8200.0,2278,3.6,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Chicago,Slight Surplus,4200.0,1481,2.84,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Dallas,Slight Surplus,2300.0,555,4.14,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Los Angeles,Slight Surplus,4200.0,1580,2.66,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Miami,Slight Surplus,5800.0,1344,4.32,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",New York,Slight Surplus,7000.0,2053,3.41,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"McAllen, TX",Philadelphia,Slight Surplus,6200.0,1960,3.16,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",Atlanta,Adequate,1900.0,429,4.43,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",Baltimore,Adequate,1950.0,317,6.15,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",Boston,Adequate,3250.0,729,4.46,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",Chicago,Adequate,1950.0,767,2.54,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",New York,Adequate,2750.0,504,5.46,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Raleigh, NC",Philadelphia,Adequate,2150.0,415,5.18,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Oxnard, CA",Baltimore,Slight Shortage,9450.0,2835,3.33,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Oxnard, CA",Philadelphia,Slight Shortage,9450.0,2924,3.23,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salinas, CA",Baltimore,Slight Shortage,11050.0,2919,3.79,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salinas, CA",Chicago,Slight Shortage,5700.0,2206,2.58,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salinas, CA",New York,Slight Shortage,10350.0,3067,3.37,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Salinas, CA",Philadelphia,Slight Shortage,11100.0,3002,3.7,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Atlanta,Slight Shortage,8350.0,2454,3.4,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Baltimore,Slight Shortage,9800.0,2892,3.39,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Boston,Slight Shortage,10800.0,3213,3.36,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Chicago,Slight Shortage,6600.0,2190,3.01,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Dallas,Slight Shortage,6250.0,1636,3.82,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Miami,Slight Shortage,10450.0,2956,3.54,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",New York,Slight Shortage,9950.0,3048,3.26,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Philadelphia,Slight Shortage,9700.0,2979,3.26,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Santa Maria, CA",Seattle,Slight Shortage,5400.0,1058,5.1,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Atlanta,Shortage,9100.0,2394,3.8,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Baltimore,Slight Shortage,9400.0,2801,3.36,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Baltimore,Shortage,10600.0,2801,3.78,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Chicago,Slight Shortage,6550.0,2089,3.14,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Chicago,Shortage,7150.0,2089,3.42,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Dallas,Shortage,5600.0,1598,3.5,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Miami,Shortage,11050.0,2926,3.78,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",New York,Slight Shortage,9650.0,2950,3.27,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",New York,Shortage,10500.0,2950,3.56,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Philadelphia,Slight Shortage,10950.0,2884,3.8,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Philadelphia,Shortage,10100.0,2884,3.5,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Fresno, CA",Seattle,Shortage,5200.0,912,5.7,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Baltimore,Adequate,3050.0,705,4.33,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Boston,Adequate,3900.0,1124,3.47,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Chicago,Adequate,2800.0,871,3.21,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Dallas,Adequate,2950.0,1005,2.94,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Los Angeles,Adequate,5200.0,2492,2.09,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Miami,Adequate,2750.0,557,4.94,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",New York,Adequate,3750.0,899,4.17,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Vidalia, GA",Philadelphia,Adequate,3450.0,809,4.26,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Atlanta,Shortage,11050.0,2495,4.43,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Baltimore,Shortage,11700.0,2698,4.34,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Boston,Shortage,13650.0,2903,4.7,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Chicago,Shortage,8400.0,1977,4.25,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Dallas,Shortage,9050.0,1888,4.79,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Los Angeles,Shortage,4100.0,1051,3.9,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Miami,Shortage,14150.0,3154,4.49,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",New York,Shortage,12950.0,2798,4.63,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-22,"Yakima, WA",Philadelphia,Shortage,11500.0,2755,4.17,USDA FVWTRK 20260923-fvwtrk.pdf
+2026-09-29,"Salisbury, MD",Atlanta,Shortage,3850.0,704,5.47,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salisbury, MD",Boston,Slight Shortage,2900.0,437,6.64,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salisbury, MD",Chicago,Adequate,2750.0,818,3.36,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Atlanta,Slight Shortage,7650.0,2152,3.55,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Baltimore,Slight Shortage,9850.0,2645,3.72,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Boston,Slight Shortage,10550.0,2996,3.52,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Chicago,Slight Shortage,7300.0,1974,3.7,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Dallas,Slight Shortage,5000.0,1308,3.82,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Miami,Slight Shortage,10200.0,2609,3.91,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",New York,Slight Shortage,10300.0,2814,3.66,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Philadelphia,Slight Shortage,9600.0,2739,3.5,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"El Centro, CA",Seattle,Slight Shortage,5650.0,1302,4.34,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Bakersfield, CA",Baltimore,Slight Shortage,10250.0,2791,3.67,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Bakersfield, CA",Chicago,Slight Shortage,6950.0,2089,3.33,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Bakersfield, CA",New York,Slight Shortage,10550.0,2946,3.58,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Bakersfield, CA",Philadelphia,Slight Shortage,10550.0,2878,3.67,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Atlanta,Slight Surplus,3900.0,1171,3.33,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Baltimore,Slight Surplus,6100.0,1849,3.3,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Boston,Slight Surplus,6850.0,2278,3.01,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Chicago,Slight Surplus,4000.0,1481,2.7,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Dallas,Slight Surplus,2150.0,555,3.87,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Los Angeles,Slight Shortage,4100.0,1580,2.59,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Miami,Slight Shortage,6000.0,1344,4.46,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",New York,Slight Shortage,6600.0,2053,3.21,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"McAllen, TX",Philadelphia,Slight Shortage,6200.0,1960,3.16,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",Atlanta,Adequate,2150.0,429,5.01,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",Baltimore,Adequate,2150.0,317,6.78,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",Boston,Adequate,3300.0,729,4.53,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",Chicago,Adequate,2150.0,767,2.8,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",New York,Adequate,2800.0,504,5.56,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Raleigh, NC",Philadelphia,Adequate,2300.0,415,5.54,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Oxnard, CA",Baltimore,Slight Shortage,10250.0,2835,3.62,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Oxnard, CA",Philadelphia,Slight Shortage,10050.0,2924,3.44,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salinas, CA",Baltimore,Slight Shortage,10950.0,2919,3.75,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salinas, CA",Chicago,Slight Shortage,6750.0,2206,3.06,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salinas, CA",New York,Slight Shortage,10150.0,3067,3.31,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Salinas, CA",Philadelphia,Slight Shortage,11000.0,3002,3.66,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Atlanta,Slight Shortage,8400.0,2454,3.42,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Baltimore,Slight Shortage,10150.0,2892,3.51,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Boston,Slight Shortage,11100.0,3213,3.45,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Chicago,Slight Shortage,7700.0,2190,3.52,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Dallas,Slight Shortage,6400.0,1636,3.91,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Miami,Slight Shortage,11950.0,2956,4.04,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",New York,Slight Shortage,10550.0,3048,3.46,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Philadelphia,Slight Shortage,10000.0,2979,3.36,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Santa Maria, CA",Seattle,Slight Shortage,5050.0,1058,4.77,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Atlanta,Shortage,9100.0,2394,3.8,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Baltimore,Slight Shortage,9700.0,2801,3.46,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Baltimore,Shortage,10600.0,2801,3.78,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Chicago,Slight Shortage,7800.0,2089,3.73,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Chicago,Shortage,7150.0,2089,3.42,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Dallas,Shortage,5600.0,1598,3.5,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Miami,Shortage,11050.0,2926,3.78,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",New York,Slight Shortage,10150.0,2950,3.44,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",New York,Shortage,10500.0,2950,3.56,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Philadelphia,Slight Shortage,10850.0,2884,3.76,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Philadelphia,Shortage,10100.0,2884,3.5,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Fresno, CA",Seattle,Shortage,5200.0,912,5.7,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Atlanta,Shortage,11250.0,2495,4.51,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Baltimore,Shortage,11450.0,2698,4.24,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Boston,Shortage,12650.0,2903,4.36,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Chicago,Shortage,8600.0,1977,4.35,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Dallas,Shortage,9450.0,1888,5.01,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Los Angeles,Shortage,3950.0,1051,3.76,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Miami,Shortage,14150.0,3154,4.49,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",New York,Shortage,12600.0,2798,4.5,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-09-29,"Yakima, WA",Philadelphia,Shortage,11500.0,2755,4.17,USDA FVWTRK 20260930-fvwtrk.pdf
+2026-10-06,"Salisbury, MD",Atlanta,Shortage,3700.0,704,5.26,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salisbury, MD",Boston,Slight Shortage,2800.0,437,6.41,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Atlanta,Slight Shortage,7900.0,2152,3.67,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Baltimore,Slight Shortage,9875.0,2645,3.73,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Boston,Slight Shortage,10640.0,2996,3.55,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Chicago,Slight Shortage,6625.0,1974,3.36,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Dallas,Slight Shortage,5300.0,1308,4.05,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Miami,Slight Shortage,9995.0,2609,3.83,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",New York,Slight Shortage,10647.5,2814,3.78,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Philadelphia,Slight Shortage,9625.0,2739,3.51,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"El Centro, CA",Seattle,Slight Shortage,6125.0,1302,4.7,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Bakersfield, CA",Baltimore,Slight Shortage,10187.5,2791,3.65,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Bakersfield, CA",Chicago,Slight Shortage,7110.0,2089,3.4,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Bakersfield, CA",New York,Slight Shortage,11755.0,2946,3.99,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Bakersfield, CA",Philadelphia,Slight Shortage,9980.0,2878,3.47,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Atlanta,Slight Surplus,4000.0,1171,3.42,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Baltimore,Slight Surplus,6150.0,1849,3.33,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Boston,Slight Surplus,6850.0,2278,3.01,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Chicago,Slight Surplus,4000.0,1481,2.7,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Dallas,Slight Surplus,2150.0,555,3.87,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Los Angeles,Slight Shortage,4100.0,1580,2.59,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Miami,Slight Shortage,6000.0,1344,4.46,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",New York,Slight Shortage,6600.0,2053,3.21,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"McAllen, TX",Philadelphia,Slight Shortage,6200.0,1960,3.16,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",Atlanta,Adequate,2000.0,429,4.66,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",Baltimore,Adequate,2150.0,317,6.78,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",Boston,Adequate,3250.0,729,4.46,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",Chicago,Adequate,2250.0,767,2.93,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",New York,Adequate,2800.0,504,5.56,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Raleigh, NC",Philadelphia,Adequate,2300.0,415,5.54,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Oxnard, CA",Baltimore,Slight Shortage,10395.0,2835,3.67,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Oxnard, CA",Philadelphia,Slight Shortage,10280.0,2924,3.52,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salinas, CA",Baltimore,Slight Shortage,10085.0,2919,3.45,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salinas, CA",Chicago,Slight Shortage,8660.0,2206,3.93,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salinas, CA",New York,Slight Shortage,11017.5,3067,3.59,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Salinas, CA",Philadelphia,Slight Shortage,9902.5,3002,3.3,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Atlanta,Slight Shortage,8965.0,2454,3.65,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Baltimore,Slight Shortage,10410.0,2892,3.6,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Boston,Slight Shortage,10910.0,3213,3.4,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Chicago,Slight Shortage,6915.0,2190,3.16,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Dallas,Slight Shortage,6500.0,1636,3.97,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Miami,Slight Shortage,12665.0,2956,4.28,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",New York,Slight Shortage,11567.5,3048,3.8,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Philadelphia,Slight Shortage,10300.0,2979,3.46,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Santa Maria, CA",Seattle,Slight Shortage,5187.5,1058,4.9,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Atlanta,Shortage,9100.0,2394,3.8,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Baltimore,Slight Shortage,10187.5,2801,3.64,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Baltimore,Shortage,10600.0,2801,3.78,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Chicago,Slight Shortage,7110.0,2089,3.4,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Chicago,Shortage,7150.0,2089,3.42,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Dallas,Shortage,5600.0,1598,3.5,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Miami,Shortage,11050.0,2926,3.78,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",New York,Slight Shortage,11755.0,2950,3.98,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",New York,Shortage,10500.0,2950,3.56,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Philadelphia,Slight Shortage,9980.0,2884,3.46,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Philadelphia,Shortage,10100.0,2884,3.5,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Fresno, CA",Seattle,Shortage,5200.0,912,5.7,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Atlanta,Shortage,11250.0,2495,4.51,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Baltimore,Shortage,11450.0,2698,4.24,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Boston,Shortage,12650.0,2903,4.36,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Chicago,Shortage,8600.0,1977,4.35,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Dallas,Shortage,9450.0,1888,5.01,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Los Angeles,Shortage,3950.0,1051,3.76,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Miami,Shortage,14150.0,3154,4.49,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",New York,Shortage,12600.0,2798,4.5,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-06,"Yakima, WA",Philadelphia,Shortage,11500.0,2755,4.17,USDA FVWTRK 20261007-fvwtrk.pdf
+2026-10-13,"Salisbury, MD",Atlanta,Shortage,3700.0,704,5.26,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salisbury, MD",Boston,Slight Shortage,2800.0,437,6.41,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salisbury, MD",Chicago,Adequate,2500.0,818,3.06,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Atlanta,Adequate,8500.0,2152,3.95,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Baltimore,Adequate,10580.0,2645,4.0,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Boston,Adequate,10387.5,2996,3.47,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Chicago,Adequate,7492.5,1974,3.8,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Dallas,Adequate,5280.0,1308,4.04,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Miami,Adequate,10755.0,2609,4.12,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",New York,Adequate,10925.0,2814,3.88,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Philadelphia,Adequate,9815.0,2739,3.58,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"El Centro, CA",Seattle,Adequate,6365.0,1302,4.89,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Bakersfield, CA",Baltimore,Adequate,10560.0,2791,3.78,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Bakersfield, CA",Chicago,Adequate,7480.0,2089,3.58,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Bakersfield, CA",New York,Adequate,12085.0,2946,4.1,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Bakersfield, CA",Philadelphia,Adequate,10400.0,2878,3.61,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Atlanta,Slight Surplus,4550.0,1171,3.89,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Baltimore,Slight Surplus,5900.0,1849,3.19,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Boston,Slight Surplus,6800.0,2278,2.99,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Chicago,Slight Surplus,3900.0,1481,2.63,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Dallas,Slight Surplus,2150.0,555,3.87,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Los Angeles,Slight Shortage,4000.0,1580,2.53,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Miami,Slight Shortage,6400.0,1344,4.76,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",New York,Slight Shortage,6500.0,2053,3.17,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"McAllen, TX",Philadelphia,Slight Shortage,6500.0,1960,3.32,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",Atlanta,Adequate,2000.0,429,4.66,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",Baltimore,Adequate,2150.0,317,6.78,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",Boston,Adequate,3250.0,729,4.46,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",Chicago,Adequate,2250.0,767,2.93,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",New York,Adequate,2800.0,504,5.56,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Raleigh, NC",Philadelphia,Adequate,2300.0,415,5.54,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Oxnard, CA",Baltimore,Adequate,10700.0,2835,3.77,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Oxnard, CA",Philadelphia,Adequate,10500.0,2924,3.59,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salinas, CA",Baltimore,Adequate,10500.0,2919,3.6,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salinas, CA",Chicago,Adequate,9000.0,2206,4.08,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salinas, CA",New York,Adequate,11375.0,3067,3.71,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Salinas, CA",Philadelphia,Adequate,10600.0,3002,3.53,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Atlanta,Adequate,9250.0,2454,3.77,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Baltimore,Adequate,10550.0,2892,3.65,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Boston,Adequate,11400.0,3213,3.55,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Chicago,Adequate,7250.0,2190,3.31,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Dallas,Adequate,6800.0,1636,4.16,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Miami,Adequate,12800.0,2956,4.33,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",New York,Adequate,11800.0,3048,3.87,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Philadelphia,Adequate,10500.0,2979,3.52,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Santa Maria, CA",Seattle,Adequate,5750.0,1058,5.43,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Atlanta,Shortage,9100.0,2394,3.8,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Baltimore,Adequate,10550.0,2801,3.77,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Baltimore,Shortage,10600.0,2801,3.78,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Boston,Shortage,11050.0,3109,3.55,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Chicago,Adequate,7350.0,2089,3.52,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Chicago,Shortage,7150.0,2089,3.42,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Dallas,Shortage,5600.0,1598,3.5,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Miami,Shortage,11050.0,2926,3.78,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",New York,Adequate,12000.0,2950,4.07,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",New York,Shortage,10500.0,2950,3.56,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Philadelphia,Adequate,10450.0,2884,3.62,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Philadelphia,Shortage,10100.0,2884,3.5,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Fresno, CA",Seattle,Shortage,5200.0,912,5.7,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Atlanta,Shortage,11250.0,2495,4.51,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Baltimore,Shortage,11450.0,2698,4.24,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Boston,Shortage,12650.0,2903,4.36,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Chicago,Shortage,8600.0,1977,4.35,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Dallas,Shortage,9450.0,1888,5.01,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Los Angeles,Shortage,3950.0,1051,3.76,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Miami,Shortage,14150.0,3154,4.49,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",New York,Shortage,12600.0,2798,4.5,USDA FVWTRK 20261014-fvwtrk.pdf
+2026-10-13,"Yakima, WA",Philadelphia,Shortage,11500.0,2755,4.17,USDA FVWTRK 20261014-fvwtrk.pdf

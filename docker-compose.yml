@@ -1,0 +1,88 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: northstar
+      POSTGRES_PASSWORD: northstar
+      POSTGRES_DB: northstar
+    ports:
+      - "55432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U northstar -d northstar -h 127.0.0.1"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "56379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 2s
+      timeout: 3s
+      retries: 30
+  init:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: northstar-app:dev
+    command: python -m seedgen.cli
+    environment:
+      DATABASE_URL: postgresql://northstar:northstar@postgres:5432/northstar
+      KEYS_DIR: /keys
+      DEMO_NOW: ${DEMO_NOW:-now}
+      MIGRATIONS_DIR: /app/db/migrations
+      SEED_DIR: /app/data/seed
+    volumes:
+      - keys:/keys
+    depends_on:
+      postgres:
+        condition: service_healthy
+    restart: "no"
+  mock_tms_api:
+    image: northstar-app:dev
+    command: uvicorn mock_tms_api.main:create_app --factory --host 0.0.0.0 --port 8001
+    environment:
+      DATABASE_URL: postgresql://northstar:northstar@postgres:5432/northstar
+      JWT_ISSUER: ${JWT_ISSUER:-http://mock-idp:9000}
+    volumes:
+      # M1 shortcut: the shared keys volume holds both PEMs; the API only reads the public one.
+      - keys:/keys:ro
+    ports:
+      - "8001:8001"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      init:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8001/health')"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+      start_period: 5s
+  data:
+    # Never starts on plain `up`; run with: docker compose --profile refresh-data run --rm data
+    profiles: ["refresh-data"]
+    image: northstar-app:dev
+    working_dir: /app
+    volumes:
+      - ./data:/app/data
+    command:
+      - sh
+      - -c
+      - |
+        set -e
+        pip install -r data/requirements.txt
+        python data/scripts/fetch_fmcsa.py
+        python data/scripts/fetch_usda.py
+        echo "NOTE: FAF5 and Census zips must be downloaded into data/raw first (see data/README.md)"
+        python data/scripts/build_faf_lanes.py
+        python data/scripts/build_cities.py
+        python data/scripts/curate_seed.py
+
+volumes:
+  pgdata: {}
+  keys: {}

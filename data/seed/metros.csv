@@ -1,0 +1,27 @@
+metro,city,state,lat,lon,faf_zones,role
+CHI,Chicago,IL,41.837045,-87.684939,171|181,usda_dest
+DAL,Dallas,TX,32.793333,-96.766513,484,usda_dest
+ATL,Atlanta,GA,33.762909,-84.422675,131,usda_dest
+LAX,Los Angeles,CA,34.019394,-118.410825,061,usda_dest
+SEA,Seattle,WA,47.619335,-122.351538,531,usda_dest
+MIA,Miami,FL,25.775163,-80.208615,122,usda_dest
+NYC,New York,NY,40.662712,-73.938677,092|341|363|423,usda_dest
+PHL,Philadelphia,PA,40.009376,-75.133346,101|342|421,usda_dest
+BAL,Baltimore,MD,39.300032,-76.610476,241,usda_dest
+BOS,Boston,MA,42.338551,-71.018253,251|331|441,usda_dest
+HOU,Houston,TX,29.785743,-95.388806,486,hub
+PHX,Phoenix,AZ,33.572154,-112.090132,041,hub
+DEN,Denver,CO,39.76185,-104.881105,081,hub
+MCI,Kansas City,MO,39.125155,-94.550313,201|291,hub
+STL,St. Louis,MO,38.635699,-90.244582,172|292,hub
+MEM,Memphis,TN,35.109164,-89.968511,471,hub
+BNA,Nashville,TN,36.1718,-86.785002,472,hub
+IND,Indianapolis,IN,39.776664,-86.145935,182,hub
+CMH,Columbus,OH,39.985531,-82.985594,393,hub
+DTW,Detroit,MI,42.383037,-83.102237,261,hub
+MSP,Minneapolis,MN,44.963324,-93.26832,271,hub
+MCO,Orlando,FL,28.472818,-81.320242,123,hub
+CLT,Charlotte,NC,35.209045,-80.83099,371,hub
+SFO,San Francisco,CA,37.727239,-123.032229,064,produce_gateway
+FAT,Fresno,CA,36.782684,-119.793359,065,produce_gateway
+LRD,Laredo,TX,27.560379,-99.489181,487,produce_gateway

@@ -1,0 +1,287 @@
+week,market,reefer_rpm,dry_van_rpm,availability,n_obs
+2026-04-21,Atlanta,2.41,2.05,Adequate,7
+2026-04-21,Baltimore,2.58,2.19,Slight Shortage,12
+2026-04-21,Boston,2.62,2.23,Adequate,7
+2026-04-21,Chicago,2.4,2.04,Slight Shortage,8
+2026-04-21,Dallas,2.56,2.18,Adequate,5
+2026-04-21,Los Angeles,2.48,2.11,Adequate,3
+2026-04-21,Miami,2.44,2.08,Adequate,4
+2026-04-21,NATIONAL,2.62,2.23,Slight Shortage,68
+2026-04-21,New York,2.71,2.31,Slight Shortage,9
+2026-04-21,Philadelphia,2.68,2.28,Slight Shortage,12
+2026-04-21,Seattle,3.82,3.24,Adequate,1
+2026-04-28,Atlanta,2.52,2.14,Adequate,8
+2026-04-28,Baltimore,2.56,2.18,Slight Shortage,12
+2026-04-28,Boston,2.45,2.08,Adequate,8
+2026-04-28,Chicago,2.39,2.03,Slight Shortage,9
+2026-04-28,Dallas,2.72,2.31,Adequate,6
+2026-04-28,Los Angeles,2.48,2.11,Slight Surplus,3
+2026-04-28,Miami,2.51,2.14,Adequate,5
+2026-04-28,NATIONAL,2.56,2.18,Slight Shortage,75
+2026-04-28,New York,2.7,2.29,Slight Shortage,10
+2026-04-28,Philadelphia,2.67,2.27,Slight Shortage,12
+2026-04-28,Seattle,3.09,2.63,Slight Shortage,2
+2026-05-05,Atlanta,2.42,2.05,Adequate,7
+2026-05-05,Baltimore,2.5,2.13,Adequate,13
+2026-05-05,Boston,2.51,2.14,Adequate,8
+2026-05-05,Chicago,2.49,2.11,Adequate,10
+2026-05-05,Dallas,2.54,2.16,Adequate,7
+2026-05-05,Los Angeles,2.16,1.84,Adequate,4
+2026-05-05,Miami,2.79,2.37,Adequate,5
+2026-05-05,NATIONAL,2.52,2.14,Adequate,78
+2026-05-05,New York,2.64,2.25,Adequate,10
+2026-05-05,Philadelphia,2.54,2.16,Adequate,12
+2026-05-05,Seattle,2.96,2.52,Adequate,2
+2026-05-12,Atlanta,2.68,2.28,Adequate,7
+2026-05-12,Baltimore,2.68,2.28,Adequate,12
+2026-05-12,Boston,3.01,2.56,Adequate,8
+2026-05-12,Chicago,2.43,2.07,Adequate,11
+2026-05-12,Dallas,2.64,2.24,Adequate,7
+2026-05-12,Los Angeles,2.58,2.19,Adequate,4
+2026-05-12,Miami,2.75,2.34,Adequate,6
+2026-05-12,NATIONAL,2.82,2.39,Adequate,81
+2026-05-12,New York,2.89,2.45,Adequate,11
+2026-05-12,Philadelphia,2.8,2.38,Adequate,12
+2026-05-12,Seattle,3.32,2.82,Adequate,3
+2026-05-19,Atlanta,2.58,2.19,Slight Shortage,7
+2026-05-19,Baltimore,3.33,2.83,Slight Shortage,12
+2026-05-19,Boston,3.24,2.75,Slight Shortage,8
+2026-05-19,Chicago,2.79,2.37,Slight Shortage,11
+2026-05-19,Dallas,2.89,2.45,Slight Shortage,7
+2026-05-19,Los Angeles,2.55,2.17,Adequate,4
+2026-05-19,Miami,3.18,2.7,Adequate,6
+2026-05-19,NATIONAL,3.18,2.7,Slight Shortage,81
+2026-05-19,New York,3.76,3.2,Slight Shortage,11
+2026-05-19,Philadelphia,3.36,2.86,Slight Shortage,12
+2026-05-19,Seattle,3.9,3.32,Slight Shortage,3
+2026-05-26,Atlanta,2.58,2.19,Slight Shortage,7
+2026-05-26,Baltimore,2.93,2.49,Slight Shortage,12
+2026-05-26,Boston,2.9,2.47,Slight Shortage,8
+2026-05-26,Chicago,2.72,2.31,Slight Shortage,11
+2026-05-26,Dallas,2.89,2.45,Slight Shortage,7
+2026-05-26,Los Angeles,2.25,1.91,Adequate,4
+2026-05-26,Miami,3.18,2.7,Slight Shortage,6
+2026-05-26,NATIONAL,2.94,2.5,Slight Shortage,81
+2026-05-26,New York,3.35,2.85,Slight Shortage,11
+2026-05-26,Philadelphia,3.11,2.65,Slight Shortage,12
+2026-05-26,Seattle,3.9,3.32,Slight Shortage,3
+2026-06-02,Atlanta,2.84,2.41,Slight Shortage,7
+2026-06-02,Baltimore,3.27,2.78,Slight Shortage,12
+2026-06-02,Boston,3.11,2.64,Adequate,8
+2026-06-02,Chicago,2.95,2.51,Slight Shortage,11
+2026-06-02,Dallas,3.06,2.6,Adequate,7
+2026-06-02,Los Angeles,2.12,1.8,Adequate,4
+2026-06-02,Miami,3.32,2.82,Slight Shortage,6
+2026-06-02,NATIONAL,3.17,2.69,Slight Shortage,81
+2026-06-02,New York,3.3,2.81,Slight Shortage,11
+2026-06-02,Philadelphia,3.2,2.72,Slight Shortage,12
+2026-06-02,Seattle,4.05,3.44,Slight Shortage,3
+2026-06-09,Atlanta,2.74,2.33,Slight Shortage,7
+2026-06-09,Baltimore,3.17,2.69,Slight Shortage,12
+2026-06-09,Boston,3.1,2.64,Adequate,8
+2026-06-09,Chicago,2.82,2.39,Slight Shortage,11
+2026-06-09,Dallas,2.98,2.54,Adequate,7
+2026-06-09,Los Angeles,1.97,1.68,Adequate,4
+2026-06-09,Miami,3.28,2.78,Slight Shortage,6
+2026-06-09,NATIONAL,3.1,2.63,Slight Shortage,81
+2026-06-09,New York,3.25,2.76,Slight Shortage,11
+2026-06-09,Philadelphia,3.16,2.69,Slight Shortage,12
+2026-06-09,Seattle,4.05,3.44,Slight Shortage,3
+2026-06-16,Atlanta,2.78,2.36,Adequate,7
+2026-06-16,Baltimore,3.1,2.63,Adequate,12
+2026-06-16,Boston,2.86,2.43,Adequate,8
+2026-06-16,Chicago,2.59,2.2,Adequate,11
+2026-06-16,Dallas,3.06,2.6,Adequate,7
+2026-06-16,Los Angeles,2.03,1.72,Adequate,4
+2026-06-16,Miami,3.12,2.65,Adequate,6
+2026-06-16,NATIONAL,2.98,2.54,Adequate,81
+2026-06-16,New York,3.08,2.62,Adequate,11
+2026-06-16,Philadelphia,3.08,2.62,Adequate,12
+2026-06-16,Seattle,4.26,3.62,Adequate,3
+2026-06-23,Atlanta,2.6,2.21,Adequate,6
+2026-06-23,Baltimore,3.12,2.66,Adequate,12
+2026-06-23,Boston,3.11,2.64,Adequate,8
+2026-06-23,Chicago,2.59,2.2,Adequate,11
+2026-06-23,Dallas,2.94,2.5,Adequate,6
+2026-06-23,Los Angeles,2.13,1.81,Adequate,4
+2026-06-23,Miami,3.31,2.82,Adequate,5
+2026-06-23,NATIONAL,3.08,2.62,Adequate,76
+2026-06-23,New York,3.2,2.72,Adequate,10
+2026-06-23,Philadelphia,3.14,2.67,Adequate,12
+2026-06-23,Seattle,3.98,3.39,Adequate,2
+2026-06-30,Atlanta,2.92,2.49,Slight Shortage,6
+2026-06-30,Baltimore,3.21,2.73,Adequate,12
+2026-06-30,Boston,3.06,2.6,Adequate,8
+2026-06-30,Chicago,2.72,2.31,Adequate,11
+2026-06-30,Dallas,3.03,2.58,Adequate,7
+2026-06-30,Los Angeles,2.13,1.81,Slight Shortage,4
+2026-06-30,Miami,3.28,2.79,Adequate,6
+2026-06-30,NATIONAL,3.08,2.62,Adequate,79
+2026-06-30,New York,3.2,2.72,Adequate,10
+2026-06-30,Philadelphia,3.23,2.75,Adequate,12
+2026-06-30,Seattle,4.65,3.95,Adequate,3
+2026-07-07,Atlanta,2.95,2.51,Adequate,5
+2026-07-07,Baltimore,2.97,2.52,Adequate,11
+2026-07-07,Boston,2.98,2.54,Adequate,7
+2026-07-07,Chicago,2.78,2.36,Adequate,10
+2026-07-07,Dallas,2.95,2.51,Adequate,6
+2026-07-07,Los Angeles,2.08,1.76,Adequate,4
+2026-07-07,Miami,3.22,2.73,Adequate,6
+2026-07-07,NATIONAL,2.98,2.54,Adequate,72
+2026-07-07,New York,3.17,2.69,Adequate,9
+2026-07-07,Philadelphia,3.06,2.6,Adequate,11
+2026-07-07,Seattle,5.22,4.43,Adequate,3
+2026-07-14,Atlanta,2.94,2.5,Slight Shortage,5
+2026-07-14,Baltimore,3.11,2.65,Slight Shortage,11
+2026-07-14,Boston,3.24,2.75,Slight Shortage,7
+2026-07-14,Chicago,2.55,2.17,Slight Shortage,10
+2026-07-14,Dallas,3.0,2.55,Slight Shortage,6
+2026-07-14,Los Angeles,2.18,1.85,Adequate,4
+2026-07-14,Miami,3.09,2.63,Slight Shortage,6
+2026-07-14,NATIONAL,3.11,2.64,Slight Shortage,72
+2026-07-14,New York,3.37,2.86,Slight Shortage,9
+2026-07-14,Philadelphia,3.3,2.81,Slight Shortage,11
+2026-07-14,Seattle,4.95,4.21,Slight Shortage,3
+2026-07-21,Atlanta,2.94,2.5,Adequate,5
+2026-07-21,Baltimore,3.04,2.58,Adequate,11
+2026-07-21,Boston,2.88,2.45,Adequate,7
+2026-07-21,Chicago,2.53,2.15,Adequate,10
+2026-07-21,Dallas,2.94,2.5,Adequate,6
+2026-07-21,Los Angeles,1.98,1.68,Adequate,3
+2026-07-21,Miami,3.22,2.73,Adequate,6
+2026-07-21,NATIONAL,3.0,2.55,Adequate,71
+2026-07-21,New York,3.0,2.55,Adequate,9
+2026-07-21,Philadelphia,3.1,2.63,Adequate,11
+2026-07-21,Seattle,5.03,4.28,Adequate,3
+2026-07-28,Atlanta,2.95,2.51,Adequate,7
+2026-07-28,Baltimore,2.98,2.53,Adequate,12
+2026-07-28,Boston,2.95,2.51,Slight Shortage,8
+2026-07-28,Chicago,2.5,2.13,Adequate,12
+2026-07-28,Dallas,2.88,2.44,Adequate,6
+2026-07-28,Los Angeles,1.82,1.55,Adequate,3
+2026-07-28,Miami,3.16,2.69,Adequate,6
+2026-07-28,NATIONAL,2.94,2.5,Adequate,78
+2026-07-28,New York,2.94,2.5,Adequate,9
+2026-07-28,Philadelphia,3.0,2.55,Adequate,12
+2026-07-28,Seattle,5.03,4.28,Adequate,3
+2026-08-04,Atlanta,2.92,2.48,Adequate,7
+2026-08-04,Baltimore,2.94,2.5,Adequate,11
+2026-08-04,Boston,2.94,2.5,Adequate,7
+2026-08-04,Chicago,2.51,2.14,Adequate,11
+2026-08-04,Dallas,2.83,2.41,Adequate,6
+2026-08-04,Los Angeles,1.82,1.55,Adequate,3
+2026-08-04,Miami,3.1,2.63,Adequate,6
+2026-08-04,NATIONAL,2.92,2.48,Adequate,73
+2026-08-04,New York,3.05,2.59,Adequate,8
+2026-08-04,Philadelphia,3.01,2.56,Adequate,11
+2026-08-04,Seattle,4.65,3.95,Adequate,3
+2026-08-11,Atlanta,2.74,2.33,Adequate,7
+2026-08-11,Baltimore,2.8,2.38,Adequate,11
+2026-08-11,Boston,2.94,2.5,Adequate,8
+2026-08-11,Chicago,2.58,2.2,Adequate,11
+2026-08-11,Dallas,2.72,2.32,Adequate,6
+2026-08-11,Los Angeles,1.72,1.46,Adequate,3
+2026-08-11,Miami,3.04,2.58,Adequate,6
+2026-08-11,NATIONAL,2.78,2.36,Adequate,76
+2026-08-11,New York,2.81,2.39,Adequate,10
+2026-08-11,Philadelphia,2.86,2.43,Adequate,11
+2026-08-11,Seattle,4.91,4.18,Adequate,3
+2026-08-18,Atlanta,2.67,2.27,Adequate,7
+2026-08-18,Baltimore,2.82,2.4,Adequate,11
+2026-08-18,Boston,2.74,2.33,Adequate,8
+2026-08-18,Chicago,2.47,2.1,Adequate,11
+2026-08-18,Dallas,2.68,2.28,Adequate,6
+2026-08-18,Los Angeles,1.67,1.42,Adequate,3
+2026-08-18,Miami,3.03,2.58,Adequate,6
+2026-08-18,NATIONAL,2.72,2.31,Adequate,76
+2026-08-18,New York,2.85,2.42,Adequate,10
+2026-08-18,Philadelphia,2.81,2.39,Adequate,11
+2026-08-18,Seattle,4.46,3.79,Adequate,3
+2026-08-25,Atlanta,2.74,2.33,Adequate,7
+2026-08-25,Baltimore,2.9,2.46,Adequate,11
+2026-08-25,Boston,2.88,2.44,Adequate,8
+2026-08-25,Chicago,2.61,2.22,Adequate,11
+2026-08-25,Dallas,2.76,2.35,Adequate,6
+2026-08-25,Los Angeles,1.67,1.42,Surplus,3
+2026-08-25,Miami,2.9,2.47,Adequate,6
+2026-08-25,NATIONAL,2.76,2.35,Adequate,76
+2026-08-25,New York,2.95,2.51,Adequate,10
+2026-08-25,Philadelphia,2.8,2.38,Adequate,11
+2026-08-25,Seattle,4.42,3.76,Adequate,3
+2026-09-01,Atlanta,2.74,2.33,Slight Shortage,7
+2026-09-01,Baltimore,2.81,2.39,Slight Shortage,11
+2026-09-01,Boston,2.75,2.34,Slight Shortage,8
+2026-09-01,Chicago,2.56,2.18,Slight Shortage,11
+2026-09-01,Dallas,2.79,2.37,Slight Shortage,6
+2026-09-01,Los Angeles,1.87,1.59,Surplus,3
+2026-09-01,Miami,2.91,2.47,Slight Shortage,6
+2026-09-01,NATIONAL,2.76,2.34,Slight Shortage,76
+2026-09-01,New York,2.88,2.44,Slight Shortage,10
+2026-09-01,Philadelphia,2.73,2.32,Slight Shortage,11
+2026-09-01,Seattle,4.24,3.6,Slight Shortage,3
+2026-09-08,Atlanta,2.72,2.31,Slight Shortage,7
+2026-09-08,Baltimore,2.78,2.37,Slight Shortage,11
+2026-09-08,Boston,2.71,2.3,Slight Shortage,8
+2026-09-08,Chicago,2.57,2.18,Slight Shortage,11
+2026-09-08,Dallas,2.86,2.43,Slight Shortage,6
+2026-09-08,Los Angeles,1.87,1.59,Surplus,3
+2026-09-08,Miami,2.94,2.5,Slight Shortage,6
+2026-09-08,NATIONAL,2.79,2.37,Slight Shortage,76
+2026-09-08,New York,2.91,2.48,Slight Shortage,10
+2026-09-08,Philadelphia,2.94,2.5,Slight Shortage,11
+2026-09-08,Seattle,3.87,3.29,Slight Shortage,3
+2026-09-15,Atlanta,2.94,2.5,Slight Shortage,7
+2026-09-15,Baltimore,2.71,2.31,Slight Shortage,11
+2026-09-15,Boston,2.8,2.38,Slight Shortage,8
+2026-09-15,Chicago,2.42,2.05,Slight Shortage,11
+2026-09-15,Dallas,2.97,2.53,Slight Shortage,6
+2026-09-15,Los Angeles,1.87,1.59,Slight Surplus,3
+2026-09-15,Miami,3.01,2.56,Slight Shortage,6
+2026-09-15,NATIONAL,2.72,2.31,Slight Shortage,76
+2026-09-15,New York,2.66,2.26,Slight Shortage,10
+2026-09-15,Philadelphia,2.94,2.5,Slight Shortage,11
+2026-09-15,Seattle,4.09,3.47,Slight Shortage,3
+2026-09-22,Atlanta,3.04,2.58,Shortage,7
+2026-09-22,Baltimore,2.72,2.31,Slight Shortage,11
+2026-09-22,Boston,2.86,2.43,Slight Shortage,8
+2026-09-22,Chicago,2.45,2.08,Slight Shortage,11
+2026-09-22,Dallas,3.16,2.69,Slight Shortage,6
+2026-09-22,Los Angeles,2.13,1.81,Slight Surplus,3
+2026-09-22,Miami,3.24,2.75,Slight Shortage,6
+2026-09-22,NATIONAL,2.84,2.41,Slight Shortage,76
+2026-09-22,New York,2.73,2.32,Slight Shortage,10
+2026-09-22,Philadelphia,2.96,2.52,Slight Shortage,11
+2026-09-22,Seattle,4.09,3.47,Slight Shortage,3
+2026-09-29,Atlanta,3.04,2.58,Shortage,7
+2026-09-29,Baltimore,2.96,2.51,Slight Shortage,10
+2026-09-29,Boston,2.84,2.41,Slight Shortage,7
+2026-09-29,Chicago,2.71,2.31,Slight Shortage,10
+2026-09-29,Dallas,3.1,2.63,Slight Shortage,5
+2026-09-29,Los Angeles,2.54,2.16,Slight Shortage,2
+2026-09-29,Miami,3.23,2.75,Slight Shortage,5
+2026-09-29,NATIONAL,2.94,2.5,Slight Shortage,68
+2026-09-29,New York,2.85,2.42,Slight Shortage,9
+2026-09-29,Philadelphia,2.86,2.43,Slight Shortage,10
+2026-09-29,Seattle,3.82,3.24,Slight Shortage,3
+2026-10-06,Atlanta,3.04,2.58,Shortage,7
+2026-10-06,Baltimore,2.93,2.49,Slight Shortage,10
+2026-10-06,Boston,2.84,2.41,Slight Shortage,7
+2026-10-06,Chicago,2.7,2.3,Slight Shortage,10
+2026-10-06,Dallas,3.18,2.7,Slight Shortage,5
+2026-10-06,Los Angeles,2.54,2.16,Slight Shortage,2
+2026-10-06,Miami,3.42,2.91,Slight Shortage,5
+2026-10-06,NATIONAL,2.96,2.52,Slight Shortage,68
+2026-10-06,New York,3.04,2.58,Slight Shortage,9
+2026-10-06,Philadelphia,2.79,2.37,Slight Shortage,10
+2026-10-06,Seattle,3.92,3.33,Slight Shortage,3
+2026-10-13,Atlanta,3.16,2.69,Shortage,7
+2026-10-13,Baltimore,3.02,2.57,Adequate,10
+2026-10-13,Boston,2.84,2.41,Adequate,7
+2026-10-13,Chicago,2.78,2.36,Adequate,10
+2026-10-13,Dallas,3.23,2.75,Adequate,5
+2026-10-13,Los Angeles,2.52,2.14,Slight Shortage,2
+2026-10-13,Miami,3.46,2.94,Adequate,5
+2026-10-13,NATIONAL,3.03,2.58,Adequate,68
+2026-10-13,New York,3.1,2.64,Adequate,9
+2026-10-13,Philadelphia,2.87,2.44,Adequate,10
+2026-10-13,Seattle,4.34,3.69,Adequate,3
